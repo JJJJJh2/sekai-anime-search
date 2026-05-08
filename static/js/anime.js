@@ -64,7 +64,7 @@ const youMightLikeGrid = document.getElementById("youMightLikeGrid");
 // ---------------------------------------------------------------------------
 async function loadAnimeDetail() {
     try {
-        const resp = await fetch(`/anime/${animeId}`);
+        const resp = await fetch(`/api/anime/${animeId}`);
         if (!resp.ok) {
             detailContent.innerHTML = `
                 <div class="message-box">

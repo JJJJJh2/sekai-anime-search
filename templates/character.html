@@ -25,7 +25,7 @@
         const characterId = {{ character_id }};
         document.addEventListener("DOMContentLoaded", async () => {
             try {
-                const resp = await fetch(`/character/${characterId}`);
+                const resp = await fetch(`/api/character/${characterId}`);
                 const data = await resp.json();
                 const char = data.results[0];
                 document.getElementById("characterDetail").innerHTML = `

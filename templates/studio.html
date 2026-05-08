@@ -29,7 +29,7 @@
         const studioId = {{ studio_id }};
         document.addEventListener("DOMContentLoaded", async () => {
             try {
-                const resp = await fetch(`/studio/${studioId}`);
+                const resp = await fetch(`/api/studio/${studioId}`);
                 const data = await resp.json();
                 const s = data.results[0];
                 document.getElementById("studioDetail").innerHTML = `

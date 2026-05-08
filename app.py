@@ -21,10 +21,11 @@ def create_app() -> Flask:
     from backend.routes.studio import studio_bp
     from backend.routes.character import character_bp
 
-    app.register_blueprint(search_bp)
-    app.register_blueprint(anime_bp)
-    app.register_blueprint(studio_bp)
-    app.register_blueprint(character_bp)
+    # API routes live under /api to avoid conflicts with HTML page routes
+    app.register_blueprint(search_bp, url_prefix="/api")
+    app.register_blueprint(anime_bp, url_prefix="/api")
+    app.register_blueprint(studio_bp, url_prefix="/api")
+    app.register_blueprint(character_bp, url_prefix="/api")
 
     # -----------------------------------------------------------------------
     # Page Routes (serve HTML templates)

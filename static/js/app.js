@@ -278,7 +278,7 @@ async function performSearch(query) {
     dom.autocomplete.classList.remove("active");
 
     try {
-        const resp = await fetch(`/search?q=${encodeURIComponent(q)}&limit=40`);
+        const resp = await fetch(`/api/search?q=${encodeURIComponent(q)}&limit=40`);
         if (!resp.ok) throw new Error("Search failed");
         const data = await resp.json();
         hideLoading();
@@ -308,7 +308,7 @@ async function fetchAutocomplete(query) {
     }
 
     try {
-        const resp = await fetch(`/autocomplete?q=${encodeURIComponent(q)}`);
+        const resp = await fetch(`/api/autocomplete?q=${encodeURIComponent(q)}`);
         const data = await resp.json();
         if (data.suggestions.length === 0) {
             dom.autocomplete.classList.remove("active");
@@ -393,7 +393,7 @@ function showMessage(emoji, text, hint) {
 // ---------------------------------------------------------------------------
 async function loadTopAiring() {
     try {
-        const resp = await fetch("/top-airing");
+        const resp = await fetch("/api/top-airing");
         const data = await resp.json();
         if (dom.topAiringRow && data.results.length > 0) {
             dom.topAiringRow.innerHTML = "";
@@ -411,7 +411,7 @@ async function loadTopAiring() {
 // ---------------------------------------------------------------------------
 async function loadRankings() {
     try {
-        const resp = await fetch("/ranking?limit=12");
+        const resp = await fetch("/api/ranking?limit=12");
         const data = await resp.json();
         if (dom.rankingGrid && data.results.length > 0) {
             dom.rankingGrid.innerHTML = "";
@@ -429,7 +429,7 @@ async function loadRankings() {
 // ---------------------------------------------------------------------------
 async function loadGenreFilters() {
     try {
-        const resp = await fetch("/genres");
+        const resp = await fetch("/api/genres");
         const data = await resp.json();
         if (dom.genreFilters && data.genres.length > 0) {
             // Show top 15 genres as filter pills
@@ -457,7 +457,7 @@ async function loadGenreFilters() {
 async function filterByGenre(genre) {
     showLoading();
     try {
-        const resp = await fetch(`/filter?genre=${encodeURIComponent(genre)}&limit=40`);
+        const resp = await fetch(`/api/filter?genre=${encodeURIComponent(genre)}&limit=40`);
         const data = await resp.json();
         hideLoading();
         if (data.results.length > 0) {
@@ -476,7 +476,7 @@ async function filterByGenre(genre) {
 // ---------------------------------------------------------------------------
 async function loadDailyWaifu() {
     try {
-        const resp = await fetch("/daily-waifu");
+        const resp = await fetch("/api/daily-waifu");
         const data = await resp.json();
         const char = data.character;
         if (dom.dailyWaifu && char) {
@@ -604,7 +604,7 @@ if (dom.randomBtn) {
     dom.randomBtn.addEventListener("click", async () => {
         showLoading();
         try {
-            const resp = await fetch("/random?rated=true");
+            const resp = await fetch("/api/random?rated=true");
             const data = await resp.json();
             hideLoading();
             if (data.results && data.results.length > 0) {
