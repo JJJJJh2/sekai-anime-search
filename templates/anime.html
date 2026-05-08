@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Detail — Anime Finder</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Particle Background -->
+    <canvas id="particlesCanvas"></canvas>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="/" class="nav-brand">
+                <span class="nav-brand-icon">🎬</span>Anime Finder
+            </a>
+            <div class="nav-links">
+                <a href="/">🏠 Home</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hidden data element to pass anime_id to JS -->
+    <div id="animeData" data-anime-id="{{ anime_id }}" hidden></div>
+
+    <!-- Main Container -->
+    <div class="container detail-page" id="detailContent">
+
+        <!-- Back button -->
+        <a href="/" class="detail-back">← Back to Home</a>
+
+        <!-- Hero: Cover + Info -->
+        <div class="detail-hero">
+            <!-- Cover placeholder -->
+            <div id="detailCover" class="detail-cover-wrap"
+                 style="background:linear-gradient(135deg,#1a0533,#6b21a8);">
+            </div>
+
+            <!-- Info -->
+            <div class="detail-info">
+                <h1 id="detailTitle" class="detail-title">Loading...</h1>
+                <p id="detailTitleJp" class="detail-title-jp"></p>
+
+                <div id="detailMeta" class="detail-meta-grid"></div>
+                <div id="detailGenres" class="detail-genres"></div>
+                <p id="detailAliases" class="text-muted hidden" style="margin-bottom:0.75rem;"></p>
+
+                <p id="detailSynopsis" class="detail-synopsis">Loading synopsis...</p>
+
+                <div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin-bottom:1rem;">
+                    <button id="favBtn" class="btn btn-pink">🤍 Add to Favorites</button>
+                    <button id="studioLinkBtn" class="btn btn-outline hidden">🏢 Studio Info</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Related Anime -->
+        <section class="detail-section">
+            <h2 class="detail-section-title">🔗 Related Anime</h2>
+            <div id="relatedGrid" class="anime-grid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- You Might Like -->
+        <section class="detail-section">
+            <h2 class="detail-section-title">💡 You Might Also Like</h2>
+            <div id="youMightLikeGrid" class="anime-grid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="/static/js/anime.js"></script>
+</body>
+</html>

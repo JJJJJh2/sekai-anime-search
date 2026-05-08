@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio — Anime Finder</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="particlesCanvas"></canvas>
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="/" class="nav-brand"><span class="nav-brand-icon">🎬</span>Anime Finder</a>
+            <div class="nav-links"><a href="/">🏠 Home</a></div>
+        </div>
+    </nav>
+    <div class="container detail-page" id="studioContent">
+        <a href="/" class="detail-back">← Back to Home</a>
+        <div id="studioDetail">
+            <p class="text-muted">Loading studio info...</p>
+        </div>
+        <section class="detail-section" style="margin-top:2rem;">
+            <h2 class="detail-section-title">📺 Notable Works</h2>
+            <div id="studioWorksGrid" class="anime-grid"></div>
+        </section>
+    </div>
+    <script>
+        const studioId = {{ studio_id }};
+        document.addEventListener("DOMContentLoaded", async () => {
+            try {
+                const resp = await fetch(`/studio/${studioId}`);
+                const data = await resp.json();
+                const s = data.results[0];
+                document.getElementById("studioDetail").innerHTML = `
+                    <div class="detail-hero">
+                        <div style="width:200px;height:200px;border-radius:var(--radius-lg);background:${s.cover_gradient||'linear-gradient(135deg,#1a0533,#6b21a8)'};border:2px solid var(--border-card-hover);box-shadow:var(--shadow-purple-lg);"></div>
+                        <div class="detail-info">
+                            <h1 class="detail-title">${esc(s.name)}</h1>
+                            <p class="detail-title-jp">${esc(s.name_jp||'')} · Founded ${s.founded}</p>
+                            <p style="margin:1rem 0;color:var(--text-secondary);line-height:1.7;">${esc(s.description||'')}</p>
+                            <div class="detail-meta-grid">
+                                <span class="detail-meta-item">📍 ${esc(s.location||'Unknown')}</span>
+                                <span class="detail-meta-item">📺 ${s.anime_count||0} works</span>
+                                <span class="detail-meta-item">🎨 ${esc(s.style||'')}</span>
+                            </div>
+                        </div>
+                    </div>`;
+                // Render works
+                const grid = document.getElementById("studioWorksGrid");
+                (s.works||[]).forEach(a => {
+                    const card = document.createElement("div");
+                    card.className = "anime-card";
+                    card.addEventListener("click",()=>{window.location.href=`/anime/${a.id}`});
+                    const tags = (a.genres||[]).slice(0,3).map(g=>`<span class="card-genre-tag">${esc(g)}</span>`).join("");
+                    card.innerHTML = `<div class="card-cover"><div class="card-cover-inner" style="background:${a.cover_gradient||'linear-gradient(135deg,#1a0533,#6b21a8)'};width:100%;height:100%;"></div><div class="card-cover-overlay"></div><span class="card-rating-badge">★ ${(a.rating||0).toFixed(1)}</span></div><div class="card-body"><div class="card-title">${esc(a.name_cn||a.name_en)}</div><div class="card-title-jp">${esc(a.name_jp||'')} · ${a.year||'?'}</div><div class="card-genres">${tags}</div><p class="card-synopsis">${esc((a.synopsis||'').substring(0,120))}...</p></div>`;
+                    grid.appendChild(card);
+                });
+            } catch(e) { document.getElementById("studioDetail").innerHTML = '<div class="message-box"><span class="message-emoji">💥</span><p class="message-text">Failed to load studio.</p></div>'; }
+        });
+        function esc(s){const d=document.createElement("div");d.appendChild(document.createTextNode(s||""));return d.innerHTML;}
+    </script>
+</body>
+</html>

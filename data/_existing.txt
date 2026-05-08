@@ -1,0 +1,87 @@
+  1. 进击的巨人 | Attack on Titan | 2013
+  2. 鬼灭之刃 | Demon Slayer: Kimetsu no Yaiba | 2019
+  3. 咒术回战 | Jujutsu Kaisen | 2020
+  4. 钢之炼金术师 FULLMETAL ALCHEMIST | Fullmetal Alchemist: Brotherhood | 2009
+  5. 全职猎人 | Hunter x Hunter | 2011
+  6. 我的英雄学院 | My Hero Academia | 2016
+  7. 海贼王 | One Piece | 1999
+  8. 火影忍者 | Naruto | 2002
+  9. 死神 | Bleach | 2004
+ 10. 龙珠Z | Dragon Ball Z | 1989
+ 11. 电锯人 | Chainsaw Man | 2022
+ 12. 一拳超人 | One Punch Man | 2015
+ 13. 灵能百分百 | Mob Psycho 100 | 2016
+ 14. 东京喰种 | Tokyo Ghoul | 2014
+ 15. 斩·赤红之瞳！ | Akame ga Kill! | 2014
+ 16. 噬魂师 | Soul Eater | 2008
+ 17. 妖精的尾巴 | Fairy Tail | 2009
+ 18. 黑色五叶草 | Black Clover | 2017
+ 19. 炎炎消防队 | Fire Force | 2019
+ 20. 青之驱魔师 | Blue Exorcist | 2011
+ 21. D.Gray-man | D.Gray-man | 2006
+ 22. 暗杀教室 | Assassination Classroom | 2015
+ 23. 魔法禁书目录 | A Certain Magical Index | 2008
+ 24. 某科学的超电磁炮 | A Certain Scientific Railgun | 2009
+ 25. 狂赌之渊 | Kakegurui: Compulsive Gambler | 2017
+ 26. 死亡笔记 | Death Note | 2006
+ 27. 剑风传奇 | Berserk | 1997
+ 28. 七原罪 | The Seven Deadly Sins | 2014
+ 29. 浪客剑心 | Rurouni Kenshin | 1996
+ 30. 无头骑士异闻录 | Durarara!! | 2010
+ 31. 摇曳露营△ | Laid-Back Camp | 2018
+ 32. 悠闲野活 | Non Non Biyori | 2013
+ 33. 少女终末旅行 | Girls' Last Tour | 2017
+ 34. 文豪野犬 | Bungo Stray Dogs | 2016
+ 35. 不死者之王 | Overlord | 2015
+ 36. 新世纪福音战士 | Neon Genesis Evangelion | 1995
+ 37. 星际牛仔 | Cowboy Bebop | 1998
+ 38. 混沌武士 | Samurai Champloo | 2004
+ 39. 枪神 | Trigun | 1998
+ 40. 阿基拉 | Akira | 1988
+ 41. 攻壳机动队 | Ghost in the Shell | 1995
+ 42. 未麻的部屋 | Perfect Blue | 1998
+ 43. 幽灵公主 | Princess Mononoke | 1997
+ 44. 千与千寻 | Spirited Away | 2001
+ 45. 风之谷 | Nausicaä of the Valley of the Wind | 1984
+ 46. 哈尔的移动城堡 | Howl's Moving Castle | 2004
+ 47. 萤火虫之墓 | Grave of the Fireflies | 1988
+ 48. 天空之城 | Castle in the Sky | 1986
+ 49. 银河英雄传说 | Legend of the Galactic Heroes | 1988
+ 50. 少女革命 | Revolutionary Girl Utena | 1997
+ 51. 魔卡少女樱 | Cardcaptor Sakura | 1998
+ 52. 美少女战士 | Sailor Moon | 1992
+ 53. 乱马1/2 | Ranma 1/2 | 1989
+ 54. 犬夜叉 | Inuyasha | 2000
+ 55. 福星小子 | Urusei Yatsura | 2022
+ 56. CLANNAD | Clannad | 2007
+ 57. CLANNAD ～AFTER STORY～ | Clannad: After Story | 2008
+ 58. AIR | Air | 2005
+ 59. Kanon | Kanon (2006) | 2006
+ 60. Angel Beats! | Angel Beats! | 2010
+ 61. 龙与虎 | Toradora! | 2008
+ 62. 四月是你的谎言 | Your Lie in April | 2014
+ 63. 我们仍未知道那天所看见的花的名字。 | Anohana: The Flower We Saw That Day | 2011
+ 64. Charlotte | Charlotte | 2015
+ 65. 青春猪头少年不会梦到兔女郎学姐 | Rascal Does Not Dream of Bunny Girl Senpai | 2018
+ 66. 我的青春恋爱物语果然有问题。 | My Teen Romantic Comedy SNAFU | 2013
+ 67. 辉夜大小姐想让我告白～天才们的恋爱头脑战～ | Kaguya-sama: Love is War | 2019
+ 68. 堀与宫村 | Horimiya | 2021
+ 69. 水果篮子 | Fruits Basket | 2019
+ 70. 好想告诉你 | Kimi ni Todoke: From Me to You | 2009
+ 71. 恋爱情结 | Lovely Complex | 2007
+ 72. NANA | Nana | 2006
+ 73. 金色时光 | Golden Time | 2013
+ 74. 樱花庄的宠物女孩 | The Pet Girl of Sakurasou | 2012
+ 75. ReLIFE 重返17岁 | ReLIFE | 2016
+ 76. 月色真美 | Tsuki ga Kirei | 2017
+ 77. GIVEN 被赠与的未来 | Given | 2019
+ 78. 终将成为你 | Bloom Into You | 2018
+ 79. 冰果 | Hyouka | 2012
+ 80. 春物语 | The Melancholy of Haruhi Suzumiya | 2006
+ 81. 物语系列 | Bakemonogatari | 2009
+ 82. 三月的狮子 | March Comes in Like a Lion | 2016
+ 83. 白箱 | Shirobako | 2014
+ 84. 小桃小栗 Love Love物语 | Momokuri | 2016
+ 85. 邻座的怪同学 | My Little Monster | 2012
+
+Total: 85

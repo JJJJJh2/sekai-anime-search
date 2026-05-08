@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character — Anime Finder</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="particlesCanvas"></canvas>
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="/" class="nav-brand"><span class="nav-brand-icon">🎬</span>Anime Finder</a>
+            <div class="nav-links"><a href="/">🏠 Home</a></div>
+        </div>
+    </nav>
+    <div class="container detail-page" id="characterContent">
+        <a href="/" class="detail-back">← Back to Home</a>
+        <div id="characterDetail">
+            <p class="text-muted">Loading character info...</p>
+        </div>
+    </div>
+    <script>
+        const characterId = {{ character_id }};
+        document.addEventListener("DOMContentLoaded", async () => {
+            try {
+                const resp = await fetch(`/character/${characterId}`);
+                const data = await resp.json();
+                const char = data.results[0];
+                document.getElementById("characterDetail").innerHTML = `
+                    <div class="detail-hero">
+                        <div style="width:220px;height:300px;border-radius:var(--radius-lg);background:${char.cover_gradient||'linear-gradient(135deg,#1a0533,#6b21a8)'};border:2px solid var(--border-card-hover);box-shadow:var(--shadow-purple-lg);flex-shrink:0;"></div>
+                        <div class="detail-info">
+                            <h1 class="detail-title">${esc(char.name_cn||char.name_en)}</h1>
+                            <p class="detail-title-jp">${esc(char.name_jp||'')}</p>
+                            <div class="detail-meta-grid" style="margin:1rem 0;">
+                                <span class="detail-meta-item">🎭 ${esc(char.role||'?')}</span>
+                                <span class="detail-meta-item">🎙️ VA: ${esc(char.va_jp||'Unknown')}</span>
+                                ${char.anime ? `<span class="detail-meta-item">📺 <a href="/anime/${char.anime.id}" style="color:var(--purple-glow);">${esc(char.anime.name_cn||char.anime.name_en)}</a></span>` : ''}
+                            </div>
+                            <p style="color:var(--text-secondary);line-height:1.7;margin-top:0.5rem;">${esc(char.description||'')}</p>
+                        </div>
+                    </div>`;
+            } catch(e) { document.getElementById("characterDetail").innerHTML = '<div class="message-box"><span class="message-emoji">💥</span><p class="message-text">Failed to load character.</p></div>'; }
+        });
+        function esc(s){const d=document.createElement("div");d.appendChild(document.createTextNode(s||""));return d.innerHTML;}
+    </script>
+</body>
+</html>

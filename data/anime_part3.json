@@ -1,0 +1,964 @@
+[
+  {
+    "id": 58,
+    "name_cn": "AIR",
+    "name_jp": "AIR",
+    "name_en": "Air",
+    "aliases": [
+      "AIR",
+      "青空",
+      "鸟之诗"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "year": 2005,
+    "season": "Winter",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "流浪人偶师国崎往人在海边的夏日小镇遇到了少女神尾观铃。观铃有一种只要和人亲近就会失控的奇怪病症。往人与她渐渐走近，却发现了观铃背后隐藏的千年诅咒——一个跨越千年的翼人少女的悲伤传说。作为Key社三部曲的起点，本作奠定了\"夏日、海边、告别\"的催泪基调。主题曲《鸟之诗》被誉为动漫界的国歌。",
+    "studio": "Kyoto Animation",
+    "rating": 7.5,
+    "rank": 58,
+    "cover_gradient": "linear-gradient(135deg, #87CEEB, #FFD700)",
+    "related_ids": [
+      56,
+      57,
+      59,
+      60,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 59,
+    "name_cn": "Kanon",
+    "name_jp": "Kanon",
+    "name_en": "Kanon (2006)",
+    "aliases": [
+      "卡农",
+      "雪之少女",
+      "Kanon"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "year": 2006,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "少年相泽祐一回到了七年前曾居住过的北方小镇，但他对这里的记忆却模糊不清。他重新遇到了几个与过去有关的少女——每天早上叫他起床的表妹名雪、在商店街等待的少女亚由、深夜校园中战斗的舞。祐一在逐渐找回记忆的过程中，揭开了埋藏在雪中的伤痛过去。京都动画以唯美的雪景和细腻的情感呈现了Key社的这部重要作品。",
+    "studio": "Kyoto Animation",
+    "rating": 7.7,
+    "rank": 59,
+    "cover_gradient": "linear-gradient(135deg, #E0FFFF, #FFB6C1)",
+    "related_ids": [
+      56,
+      57,
+      58,
+      60,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 60,
+    "name_cn": "Angel Beats!",
+    "name_jp": "Angel Beats!",
+    "name_en": "Angel Beats!",
+    "aliases": [
+      "AB",
+      "天使的心跳",
+      "AB!天使的心跳"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Supernatural",
+      "Action",
+      "School"
+    ],
+    "year": 2010,
+    "season": "Spring",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "音无结弦在一个陌生的学校中醒来，发现自己已经死了。他加入了一个名为\"死后世界战线\"的组织，组织由团长仲村由理领导，目的是反抗学校中的\"天使\"——学生会会长立华奏。然而随着故事的发展，音无发现这个世界的真相远比想象中的更加悲伤。麻枝准以有限的话数讲述了一个关于释怀与告别的动人故事。",
+    "studio": "P.A. Works",
+    "rating": 8.0,
+    "rank": 60,
+    "cover_gradient": "linear-gradient(135deg, #9370DB, #FFD700)",
+    "related_ids": [
+      56,
+      57,
+      58,
+      59,
+      61,
+      64
+    ]
+  },
+  {
+    "id": 61,
+    "name_cn": "龙与虎",
+    "name_jp": "とらドラ!",
+    "name_en": "Toradora!",
+    "aliases": [
+      "虎与龙",
+      "ToraDora",
+      "龙虎"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2008,
+    "season": "Fall",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "面相凶恶但内心善良的高中生高须龙儿暗恋着栉枝实乃梨，而娇小的\"掌中老虎\"逢坂大河则爱慕着龙儿的好友北村祐作。两人为了帮助对方追求心上人结成了同盟，却在朝夕相处中逐渐发现了对彼此的真挚感情。本作是校园恋爱喜剧的典范之作，逢坂大河与高须龙儿的CP是动画史上最经典的情侣之一。",
+    "studio": "J.C.Staff",
+    "rating": 8.2,
+    "rank": 61,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FF4500)",
+    "related_ids": [
+      56,
+      57,
+      62,
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "id": 62,
+    "name_cn": "四月是你的谎言",
+    "name_jp": "四月は君の嘘",
+    "name_en": "Your Lie in April",
+    "aliases": [
+      "四月谎",
+      "君嘘",
+      "四谎"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music",
+      "School"
+    ],
+    "year": 2014,
+    "season": "Fall",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "曾是钢琴神童的有马公生在母亲去世后陷入了无法听见钢琴声的心理障碍。14岁那年春天，他遇见了自由奔放的小提琴手宫园薰，她的热情演奏点燃了公生重新弹琴的勇气。在樱花飞舞的四月，少年少女们在音乐中相遇、成长、面对离别。本作以精美的古典音乐演奏画面和催人泪下的剧情成为青春恋爱动画的经典。",
+    "studio": "A-1 Pictures",
+    "rating": 8.5,
+    "rank": 62,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      63,
+      64,
+      65,
+      166,
+      167
+    ]
+  },
+  {
+    "id": 63,
+    "name_cn": "我们仍未知道那天所看见的花的名字。",
+    "name_jp": "あの日見た花の名前を僕達はまだ知らない。",
+    "name_en": "Anohana: The Flower We Saw That Day",
+    "aliases": [
+      "Anohana",
+      "未闻花名",
+      "那朵花",
+      "花名"
+    ],
+    "genres": [
+      "Drama",
+      "Supernatural",
+      "Slice of Life",
+      "Romance"
+    ],
+    "year": 2011,
+    "season": "Spring",
+    "episodes": 11,
+    "type": "TV",
+    "synopsis": "昔日亲密无间的\"超和平Busters\"六人组，在儿时玩伴本间芽衣子意外身亡后渐行渐远。某天暑假，芽衣子的灵魂以长大的形态出现在宅男宿海仁太面前，请求他实现一个未了的心愿。为了帮助面码成佛，分散多年的伙伴们重新聚在一起，面对埋藏多年的伤痛和未曾说出口的感情。片尾曲《secret base》响起时，几乎无人能抑制泪水。",
+    "studio": "A-1 Pictures",
+    "rating": 8.3,
+    "rank": 63,
+    "cover_gradient": "linear-gradient(135deg, #FFF0F5, #87CEEB)",
+    "related_ids": [
+      62,
+      64,
+      65,
+      56,
+      57,
+      60
+    ]
+  },
+  {
+    "id": 64,
+    "name_cn": "Charlotte",
+    "name_jp": "Charlotte",
+    "name_en": "Charlotte",
+    "aliases": [
+      "夏洛特",
+      "Charlotte",
+      "超能力学园"
+    ],
+    "genres": [
+      "Drama",
+      "School",
+      "Supernatural",
+      "Romance"
+    ],
+    "year": 2015,
+    "season": "Summer",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "极少数的青少年会在青春期觉醒特殊能力，但这些能力都不完全。乙坂有宇拥有可以短暂占据他人身体五秒的能力。凭借这个能力他考入了名校，却被学生会发现了秘密，被迫转入星之海学园。麻枝准和P.A.Works继《Angel Beats!》后再度合作，探讨了能力与代价的主题。后期的急转折引发了广泛讨论。",
+    "studio": "P.A. Works",
+    "rating": 7.5,
+    "rank": 64,
+    "cover_gradient": "linear-gradient(135deg, #0000CD, #87CEEB)",
+    "related_ids": [
+      60,
+      56,
+      57,
+      63,
+      65,
+      23
+    ]
+  },
+  {
+    "id": 65,
+    "name_cn": "青春猪头少年不会梦到兔女郎学姐",
+    "name_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "name_en": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "aliases": [
+      "青猪",
+      "兔女郎学姐",
+      "青春猪头少年",
+      "Bunny Girl Senpai"
+    ],
+    "genres": [
+      "Romance",
+      "Supernatural",
+      "School",
+      "Drama",
+      "Psychological"
+    ],
+    "year": 2018,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "高中生梓川咲太在图书馆遇见了穿着兔女郎装的前偶像樱岛麻衣。奇怪的是，除了咲太之外没有人能看到她。原来麻衣正受到\"青春期症候群\"的困扰——一种都市传说中的超自然现象。咲太以他独有的冷静和善良帮助麻衣以及身边的其他人解决各种青春期症候群事件。麻衣学姐的魅力与咲太的直球式撩妹让本作成为近年最受欢迎的青春恋爱作品之一。",
+    "studio": "CloverWorks",
+    "rating": 8.2,
+    "rank": 65,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #9370DB)",
+    "related_ids": [
+      62,
+      63,
+      56,
+      57,
+      66,
+      67
+    ]
+  },
+  {
+    "id": 66,
+    "name_cn": "我的青春恋爱物语果然有问题。",
+    "name_jp": "やはり俺の青春ラブコメはまちがっている。",
+    "name_en": "My Teen Romantic Comedy SNAFU",
+    "aliases": [
+      "Oregairu",
+      "春物",
+      "大老师",
+      "果青"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2013,
+    "season": "Spring",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "比企谷八幡是一个孤僻、愤世嫉俗的高中生，因为一篇描写当代青春虚伪面的作文而被老师强制加入\"侍奉部\"。在那里他遇到了完美而冰冷的雪之下雪乃和活泼可爱的由比滨结衣。三人通过接受各种委托，逐渐面对各自的内心和彼此的羁绊。本作以其对社会关系的辛辣讽刺和深刻的角色心理描写重新定义了青春恋爱喜剧。",
+    "studio": "Brain's Base",
+    "rating": 8.1,
+    "rank": 66,
+    "cover_gradient": "linear-gradient(135deg, #87CEEB, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      64,
+      65,
+      67,
+      68
+    ]
+  },
+  {
+    "id": 67,
+    "name_cn": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+    "name_jp": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "name_en": "Kaguya-sama: Love is War",
+    "aliases": [
+      "辉夜",
+      "Kaguya-sama",
+      "恋爱头脑战"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School",
+      "Psychological"
+    ],
+    "year": 2019,
+    "season": "Winter",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "名门秀知院学园的学生会长白银御行和副会长四宫辉夜被公认为天造地设的一对，两人也互有好感。然而他们的自尊心太强，谁都不愿意先告白。于是两人绞尽脑汁设计各种策略，试图让对方率先告白。本作以精致的喜剧演出和出乎意料的情节反转赢得了极高人气，第三季的rap对决和剧场版告白场景成为经典。",
+    "studio": "A-1 Pictures",
+    "rating": 8.5,
+    "rank": 67,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFD700)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      66,
+      68,
+      69
+    ]
+  },
+  {
+    "id": 68,
+    "name_cn": "堀与宫村",
+    "name_jp": "ホリミヤ",
+    "name_en": "Horimiya",
+    "aliases": [
+      "堀宫",
+      "Hori-san to Miyamura-kun"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Slice of Life"
+    ],
+    "year": 2021,
+    "season": "Winter",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "在学校里，堀京子是品学兼优的完美女生，宫村伊澄则是沉默寡言的阴沉眼镜男。然而在放学后，堀变成了照顾弟弟的朴素姐姐，宫村则是一个浑身穿环打钉的帅气青年。两人在不经意间发现了彼此的秘密，随之建立起独特而亲密的友谊。本作以其自然流畅的恋爱进程和甜蜜的角色互动成为纯爱类动画的代表作。",
+    "studio": "CloverWorks",
+    "rating": 8.2,
+    "rank": 68,
+    "cover_gradient": "linear-gradient(135deg, #FFDAB9, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      67,
+      69,
+      70
+    ]
+  },
+  {
+    "id": 69,
+    "name_cn": "水果篮子",
+    "name_jp": "フルーツバスケット",
+    "name_en": "Fruits Basket",
+    "aliases": [
+      "水果篮",
+      "魔法水果篮",
+      "FruBa"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Supernatural",
+      "Comedy",
+      "Shoujo"
+    ],
+    "year": 2019,
+    "season": "Spring",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "高中女生本田透在母亲去世后住进了帐篷里，被同学草摩由希和草摩夹发现后，住进了草摩家。她逐渐发现了草摩家族的秘密——十二生肖的诅咒：被异性拥抱就会变成对应的生肖动物。透以她无条件的善良慢慢治愈了每个被诅咒的草摩族人。2019年的重制版完整改编了漫画的结局，以极高的制作质量呈现了这个关于爱、接纳与救赎的故事。",
+    "studio": "TMS Entertainment",
+    "rating": 8.3,
+    "rank": 69,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFFACD)",
+    "related_ids": [
+      61,
+      65,
+      66,
+      68,
+      70,
+      56
+    ]
+  },
+  {
+    "id": 70,
+    "name_cn": "好想告诉你",
+    "name_jp": "君に届け",
+    "name_en": "Kimi ni Todoke: From Me to You",
+    "aliases": [
+      "只想告诉你",
+      "传达",
+      "好想急死你"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2009,
+    "season": "Fall",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "黑沼爽子因为长得像贞子而被同学们畏惧，但她的内心却无比善良。阳光开朗的风早翔太是第一个真心对她笑的同学，爽子逐渐被风早吸引。本作以细腻的笔触描绘了两个不善表达的人之间缓慢而甜蜜的恋爱进程。两位主角之间纯真的感情发展经常让观众着急不已，因此获得了\"好想急死你\"的昵称。",
+    "studio": "Production I.G",
+    "rating": 8.0,
+    "rank": 70,
+    "cover_gradient": "linear-gradient(135deg, #FFF0F5, #FFB6C1)",
+    "related_ids": [
+      61,
+      65,
+      67,
+      68,
+      69,
+      71
+    ]
+  },
+  {
+    "id": 71,
+    "name_cn": "恋爱情结",
+    "name_jp": "ラブ★コン",
+    "name_en": "Lovely Complex",
+    "aliases": [
+      "LoveCom",
+      "恋爱情结",
+      "Lovely Complex"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2007,
+    "season": "Spring",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "身高172cm的高个子女生小泉理沙和身高156cm的矮个子男生大谷敦士，被同学们称为\"搞笑二人组\"。两人因都喜欢同一支乐队而成为好朋友，但理沙逐渐对冬谷产生了超越友情的感情。本作以关西腔的幽默对白和夸张的表情演出为特色，通过一对身高反差情侣的故事探讨了外貌与爱情的议题。",
+    "studio": "Toei Animation",
+    "rating": 8.1,
+    "rank": 71,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FF8C00)",
+    "related_ids": [
+      61,
+      65,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": 72,
+    "name_cn": "NANA",
+    "name_jp": "NANA -ナナ-",
+    "name_en": "Nana",
+    "aliases": [
+      "娜娜",
+      "世界上另一个我",
+      "NANA"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music",
+      "Slice of Life",
+      "Josei"
+    ],
+    "year": 2006,
+    "season": "Spring",
+    "episodes": 47,
+    "type": "TV",
+    "synopsis": "两个名字都叫\"NANA\"的同龄女孩在开往东京的列车上相遇。大崎娜娜是一个追求朋克摇滚梦想的酷女孩，小松奈奈则是一个追随男友而来的天真女孩。她们机缘巧合成为了同租室友，两条截然不同的人生轨迹在东京这座大都市中交织。矢泽爱以极为写实的笔触描绘了一段关于爱情、友情和梦想的青春群像。",
+    "studio": "Madhouse",
+    "rating": 8.4,
+    "rank": 72,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #4B0082)",
+    "related_ids": [
+      70,
+      71,
+      166,
+      167,
+      168,
+      61
+    ]
+  },
+  {
+    "id": 73,
+    "name_cn": "金色时光",
+    "name_jp": "ゴールデンタイム",
+    "name_en": "Golden Time",
+    "aliases": [
+      "Golden Time",
+      "金色时光",
+      "GT"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "College",
+      "Comedy"
+    ],
+    "year": 2013,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "大一新生多田万里在入学当天遇到了热爱戏剧的完美大小姐加贺香子。香子疯狂追求着她从小爱慕的青梅竹马，而万里则在事故后失去了高中时期的记忆。作为少有的以大学生为主角的恋爱作品，本作探讨了身份认同和过去与现在的自我冲突。加贺香子的性格成长是故事的一大亮点。",
+    "studio": "J.C.Staff",
+    "rating": 7.6,
+    "rank": 73,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      64,
+      65,
+      66,
+      74
+    ]
+  },
+  {
+    "id": 74,
+    "name_cn": "樱花庄的宠物女孩",
+    "name_jp": "さくら荘のペットな彼女",
+    "name_en": "The Pet Girl of Sakurasou",
+    "aliases": [
+      "樱花庄",
+      "宠物女孩",
+      "真白"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2012,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "神田空太因收养流浪猫被踢出普通宿舍，搬进了问题学生聚集的樱花庄。在这里他遇到了世界级天才画家椎名真白——一个绘画天才但在日常生活中需要被人照顾的少女。空太在照顾真白的同时，也在追寻自己的梦想。本作探讨了天才与普通人的差距、追求梦想的挫折与坚持，是一部兼具搞笑和感动的青春群像剧。",
+    "studio": "J.C.Staff",
+    "rating": 7.9,
+    "rank": 74,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      66,
+      73,
+      75
+    ]
+  },
+  {
+    "id": 75,
+    "name_cn": "ReLIFE 重返17岁",
+    "name_jp": "ReLIFE",
+    "name_en": "ReLIFE",
+    "aliases": [
+      "重返17岁",
+      "ReLIFE",
+      "重生计划"
+    ],
+    "genres": [
+      "Romance",
+      "School",
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2016,
+    "season": "Summer",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "27岁的海崎新太辞去工作后生活陷入困境，被邀请参加\"ReLIFE\"实验——服用药物变回17岁的外貌，重新上一年高中。在高中生活中他重新认识了青春的珍贵，也结识了同学日代千鹤。但实验结束后所有人都将失去与他相关的记忆。这部深夜档动画以其成熟的人生思考和对校园生活的温馨描绘打动了许多社会人观众。",
+    "studio": "TMS Entertainment",
+    "rating": 8.0,
+    "rank": 75,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      56,
+      62,
+      63,
+      65,
+      74,
+      73
+    ]
+  },
+  {
+    "id": 76,
+    "name_cn": "月色真美",
+    "name_jp": "月がきれい",
+    "name_en": "Tsuki ga Kirei",
+    "aliases": [
+      "月色真美",
+      "月がきれい",
+      "As the Moon, So Beautiful"
+    ],
+    "genres": [
+      "Romance",
+      "School",
+      "Slice of Life",
+      "Drama"
+    ],
+    "year": 2017,
+    "season": "Spring",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "初中三年级的水野茜和安昙小太郎是两个普通而不起眼的学生。茜是田径部的成员，小太郎则热爱写作。两人在初三这个重要的人生转折点相遇，开始了青涩而真挚的初恋。本作以极为真实细腻的方式呈现了初中生恋爱的全过程——从Line聊天、交换联系方式到一起备考、面对升学分离。片尾的各种LINE对话彩蛋增添了独特的现实感。",
+    "studio": "feel.",
+    "rating": 8.0,
+    "rank": 76,
+    "cover_gradient": "linear-gradient(135deg, #FFF8DC, #FFB6C1)",
+    "related_ids": [
+      65,
+      67,
+      68,
+      70,
+      61,
+      62
+    ]
+  },
+  {
+    "id": 77,
+    "name_cn": "GIVEN 被赠与的未来",
+    "name_jp": "ギヴン",
+    "name_en": "Given",
+    "aliases": [
+      "Given",
+      "被赠与的未来",
+      "Given"
+    ],
+    "genres": [
+      "Music",
+      "Romance",
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2019,
+    "season": "Summer",
+    "episodes": 11,
+    "type": "TV",
+    "synopsis": "上之山立夏在高中吉他手的位置上过着无聊的日子，直到他遇到了抱着坏掉的吉他的佐藤真冬。真冬的歌声打动了他的心，立夏开始教真冬弹吉他，两人逐渐走近。本作是少数以BL为主题的动画之一，但其对音乐的热爱和对失去与治愈的探讨超越了类型限制。真冬在舞台上唱出的那首歌是整部作品的高光时刻。",
+    "studio": "Lerche",
+    "rating": 8.0,
+    "rank": 77,
+    "cover_gradient": "linear-gradient(135deg, #4169E1, #FFB6C1)",
+    "related_ids": [
+      62,
+      166,
+      167,
+      168,
+      78,
+      72
+    ]
+  },
+  {
+    "id": 78,
+    "name_cn": "终将成为你",
+    "name_jp": "やがて君になる",
+    "name_en": "Bloom Into You",
+    "aliases": [
+      "终将",
+      "やが君",
+      "Yagate Kimi ni Naru"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "School",
+      "Yuri",
+      "Shoujo"
+    ],
+    "year": 2018,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "小糸侑一直不懂什么是喜欢，直到她遇到了学生会的前辈七海灯子。灯子拒绝了所有告白，却对无法心动的侑产生了兴趣。两人之间的关系从\"因为无法喜欢上所以没关系\"开始逐渐发生了微妙的变化。本作被誉为百合动画的巅峰之作，以极其细腻的心理描写探讨了自我认同和爱的本质。",
+    "studio": "TROYCA",
+    "rating": 8.1,
+    "rank": 78,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #9370DB)",
+    "related_ids": [
+      50,
+      51,
+      246,
+      247,
+      248,
+      77
+    ]
+  },
+  {
+    "id": 79,
+    "name_cn": "冰果",
+    "name_jp": "氷菓",
+    "name_en": "Hyouka",
+    "aliases": [
+      "冰菓",
+      "氷菓",
+      "古典部"
+    ],
+    "genres": [
+      "Mystery",
+      "School",
+      "Slice of Life",
+      "Romance"
+    ],
+    "year": 2012,
+    "season": "Spring",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "节能主义者折木奉太郎奉姐姐之命加入了濒临废部的古典部。在那里他遇到了好奇心旺盛的千金小姐千反田爱瑠。在爱瑠\"我很好奇\"的驱使下，奉太郎发挥其出众的推理才能，解决了一个个校园中的日常谜题。京都动画以其标志性的精美画面和细腻演出，将平凡的校园生活化为了一场场优雅的推理游戏。文化祭篇是京都动画最高制作水准的代表之一。",
+    "studio": "Kyoto Animation",
+    "rating": 8.1,
+    "rank": 79,
+    "cover_gradient": "linear-gradient(135deg, #8B4513, #FFD700)",
+    "related_ids": [
+      56,
+      61,
+      65,
+      66,
+      67,
+      80
+    ]
+  },
+  {
+    "id": 80,
+    "name_cn": "春物语",
+    "name_jp": "ハルヒ",
+    "name_en": "The Melancholy of Haruhi Suzumiya",
+    "aliases": [
+      "凉宫",
+      "凉宫春日的忧郁",
+      "Suzumiya Haruhi"
+    ],
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "School",
+      "Supernatural",
+      "Mystery"
+    ],
+    "year": 2006,
+    "season": "Spring",
+    "episodes": 14,
+    "type": "TV",
+    "synopsis": "入学式上，凉宫春日宣称「我对普通人类没有兴趣，你们当中如果有外星人、未来人、异世界人或超能力者，就来找我吧」。阿虚意外地与她搭上了话，被卷入了凉宫组建的SOS团中。让阿虚没想到的是，SOS团的成员中真的有外星人、未来人和超能力者。本作是2000年代轻小说改编动画的里程碑，\"漫无止境的八月\"成为动画史上最具实验性的叙事尝试之一。",
+    "studio": "Kyoto Animation",
+    "rating": 8.0,
+    "rank": 80,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #FFD700)",
+    "related_ids": [
+      56,
+      66,
+      79,
+      23,
+      116,
+      137
+    ]
+  },
+  {
+    "id": 81,
+    "name_cn": "物语系列",
+    "name_jp": "化物語",
+    "name_en": "Bakemonogatari",
+    "aliases": [
+      "物语",
+      "Monogatari",
+      "物语系列",
+      "伪物语"
+    ],
+    "genres": [
+      "Supernatural",
+      "Mystery",
+      "Romance",
+      "Comedy",
+      "Psychological"
+    ],
+    "year": 2009,
+    "season": "Summer",
+    "episodes": 15,
+    "type": "TV",
+    "synopsis": "高中生阿良良木历在帮助了濒死的吸血鬼后，自己也变成了半吸血鬼体质。他开始遇到了各种被\"怪异\"附身的少女们——被螃蟹夺走体重的战场原黑仪、被迷路蜗牛附体的八九寺真宵、被猿猴之手附体的神原骏河。新房昭之独特的视觉风格和西尾维新华丽的对白使本作成为轻小说改编的标杆。战场原黑仪的告白场景是系列最经典的一幕。",
+    "studio": "Shaft",
+    "rating": 8.3,
+    "rank": 81,
+    "cover_gradient": "linear-gradient(135deg, #4B0082, #FFD700)",
+    "related_ids": [
+      26,
+      116,
+      23,
+      56,
+      67,
+      82
+    ]
+  },
+  {
+    "id": 82,
+    "name_cn": "三月的狮子",
+    "name_jp": "3月のライオン",
+    "name_en": "March Comes in Like a Lion",
+    "aliases": [
+      "三月",
+      "三月狮子",
+      "3-gatsu no Lion"
+    ],
+    "genres": [
+      "Drama",
+      "Slice of Life",
+      "Sports",
+      "Seinen"
+    ],
+    "year": 2016,
+    "season": "Fall",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "17岁的桐山零是职业将棋棋士，年少成名的他在社会的孤立和内心抑郁中挣扎。直到他遇到了川本三姐妹——明里、日向和小桃，她们温暖的日常一点点融化了他冰封的内心。羽海野千花的原作以将棋为线索，实则描绘了一个关于孤独、创伤和温情的群像故事。Shaft和NHK联合制作的动画版在美术和演出上达到了极高的艺术水准。",
+    "studio": "Shaft",
+    "rating": 8.5,
+    "rank": 82,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      56,
+      57,
+      79,
+      81,
+      83,
+      182
+    ]
+  },
+  {
+    "id": 83,
+    "name_cn": "白箱",
+    "name_jp": "SHIROBAKO",
+    "name_en": "Shirobako",
+    "aliases": [
+      "SHIROBAKO",
+      "白箱",
+      "动画制作"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Slice of Life",
+      "Work"
+    ],
+    "year": 2014,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "高中动画同好会的五个女孩约定长大后要一起制作动画。几年后，宫森葵成为了动画制作公司的制作进行，每天都在与截稿日和各种突发状况搏斗。本作是P.A.Works献给动画业界的一封情书，真实展现了动画制作背后的辛酸与热血。通过主角们的成长，观众可以了解到一部动画从企划到播出的完整流程。",
+    "studio": "P.A. Works",
+    "rating": 8.3,
+    "rank": 83,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #FFD700)",
+    "related_ids": [
+      60,
+      64,
+      74,
+      79,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 84,
+    "name_cn": "小桃小栗 Love Love物语",
+    "name_jp": "ももくり",
+    "name_en": "Momokuri",
+    "aliases": [
+      "桃栗",
+      "桃李",
+      "momokuri"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Slice of Life"
+    ],
+    "year": 2016,
+    "season": "Winter",
+    "episodes": 26,
+    "type": "ONA",
+    "synopsis": "栗原雪对同校的学弟桃月心也一见钟情，经过半年的跟踪（划掉）观察后，终于告白成功成为了恋人。然而恋爱之后的栗原展现出了超乎寻常的痴女属性——收集心也用过的吸管、趴在地上偷拍学弟的睡颜。本作以超甜超搞笑的风格展现了一对青涩恋人的日常，栗原的\"变态\"行为虽然离谱但格外可爱。",
+    "studio": "Satelight",
+    "rating": 7.2,
+    "rank": 84,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFDAB9)",
+    "related_ids": [
+      61,
+      67,
+      68,
+      70,
+      84,
+      85
+    ]
+  },
+  {
+    "id": 85,
+    "name_cn": "邻座的怪同学",
+    "name_jp": "となりの怪物くん",
+    "name_en": "My Little Monster",
+    "aliases": [
+      "邻座",
+      "怪同学",
+      "となりの怪物くん"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2012,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "优等生水谷雫被老师委托送讲义给从来不来的问题学生吉田春。没想到春是一个单纯而暴力的\"怪物\"，他认定了雫是自己的第一个朋友，从此黏上了她。两个在感情上都极其笨拙的人开始了磕磕绊绊的恋爱过程。本作的节奏极快，第一集就完成了告白，这在恋爱动画中十分罕见。",
+    "studio": "Brain's Base",
+    "rating": 7.8,
+    "rank": 85,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      67,
+      68,
+      84
+    ]
+  }
+]

@@ -1,0 +1,2918 @@
+[
+  {
+    "id": 1,
+    "name_cn": "进击的巨人",
+    "name_jp": "進撃の巨人",
+    "name_en": "Attack on Titan",
+    "aliases": [
+      "AOT",
+      "Shingeki no Kyojin",
+      "巨人",
+      "自由之翼"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Military",
+      "Post-Apocalyptic"
+    ],
+    "year": 2013,
+    "season": "Spring",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "在巨人支配的世界中，人类被迫生活在巨大的城墙之内。少年艾伦·耶格尔目睹母亲被巨人吞噬后，立誓要消灭所有巨人。他加入调查兵团，逐渐发现巨人和城墙背后隐藏的惊天秘密。这部作品探讨了自由、战争与人性的深刻主题，其复杂的政治叙事和震撼的剧情转折使其成为新世纪最具影响力的动画之一。",
+    "studio": "WIT Studio",
+    "rating": 8.5,
+    "rank": 1,
+    "cover_gradient": "linear-gradient(135deg, #5c1a0d, #1a1a2e)",
+    "related_ids": [
+      2,
+      4,
+      26,
+      116,
+      124,
+      251
+    ]
+  },
+  {
+    "id": 2,
+    "name_cn": "鬼灭之刃",
+    "name_jp": "鬼滅の刃",
+    "name_en": "Demon Slayer: Kimetsu no Yaiba",
+    "aliases": [
+      "KNY",
+      "Kimetsu no Yaiba",
+      "灭柱之刃",
+      "刀村篇"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Historical",
+      "Adventure"
+    ],
+    "year": 2019,
+    "season": "Spring",
+    "episodes": 26,
+    "type": "TV",
+    "synopsis": "大正时代的日本，少年灶门炭治郎一家惨遭鬼的杀害，唯一幸存的妹妹祢豆子却变成了鬼。为了寻找让妹妹恢复成人类的方法，炭治郎加入鬼杀队，踏上了斩鬼之旅。ufotable制作的精良画面和震撼的战斗场景令本作成为现象级作品。剧场版《无限列车篇》打破了日本影史票房纪录。",
+    "studio": "ufotable",
+    "rating": 8.4,
+    "rank": 2,
+    "cover_gradient": "linear-gradient(135deg, #1a3a5c, #2d1810)",
+    "related_ids": [
+      1,
+      11,
+      27,
+      71,
+      195,
+      252
+    ]
+  },
+  {
+    "id": 3,
+    "name_cn": "咒术回战",
+    "name_jp": "呪術廻戦",
+    "name_en": "Jujutsu Kaisen",
+    "aliases": [
+      "JJK",
+      "咒术",
+      "涩谷事变"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "School",
+      "Fantasy"
+    ],
+    "year": 2020,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "高中生虎杖悠仁在吞下诅咒之王两面宿傩的手指后，成为了宿傩的容器。他加入东京都立咒术高等专门学校，学习使用咒力与诅咒战斗。本作以其流畅的打斗作画和独特的咒术体系设定吸引了大量粉丝。涉谷事变篇的黑暗剧情将故事推向了新的高度。",
+    "studio": "MAPPA",
+    "rating": 8.6,
+    "rank": 3,
+    "cover_gradient": "linear-gradient(135deg, #1a1a3e, #8B0000)",
+    "related_ids": [
+      1,
+      2,
+      8,
+      26,
+      251,
+      252
+    ]
+  },
+  {
+    "id": 4,
+    "name_cn": "钢之炼金术师 FULLMETAL ALCHEMIST",
+    "name_jp": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "name_en": "Fullmetal Alchemist: Brotherhood",
+    "aliases": [
+      "FA",
+      "钢炼",
+      "FMA:B",
+      "钢之炼金术师FA"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Military"
+    ],
+    "year": 2009,
+    "season": "Spring",
+    "episodes": 64,
+    "type": "TV",
+    "synopsis": "爱德华和阿尔冯斯·艾尔利克兄弟为了复活死去的母亲，进行了禁忌的人体炼成。炼成失败后，爱德华失去了左腿和右臂，阿尔冯斯则失去了整个身体。为了找回失去的一切，兄弟二人踏上了寻找贤者之石的旅程。本作以其严谨的等价交换世界观、深刻的主题和完美的结局被公认为动画史上的巅峰之作。",
+    "studio": "Bones",
+    "rating": 9.1,
+    "rank": 4,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #B8860B)",
+    "related_ids": [
+      1,
+      5,
+      10,
+      86,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 5,
+    "name_cn": "全职猎人",
+    "name_jp": "HUNTER×HUNTER",
+    "name_en": "Hunter x Hunter",
+    "aliases": [
+      "HxH",
+      "猎人",
+      "全职猎人2011"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "year": 2011,
+    "season": "Fall",
+    "episodes": 148,
+    "type": "TV",
+    "synopsis": "少年小杰·富力士为了寻找父亲金·富力士，参加猎人考试成为职业猎人。在旅途中他结识了奇犽、酷拉皮卡和雷欧力等伙伴，一同经历了天空竞技场、友克鑫市、贪婪之岛和嵌合蚁篇等冒险。冨樫义博创造的念能力系统深刻影响了后世无数少年漫画。嵌合蚁篇被公认为少年漫画史上最具深度的篇章之一。",
+    "studio": "Madhouse",
+    "rating": 9.0,
+    "rank": 5,
+    "cover_gradient": "linear-gradient(135deg, #228B22, #FFD700)",
+    "related_ids": [
+      1,
+      4,
+      6,
+      8,
+      10,
+      146
+    ]
+  },
+  {
+    "id": 6,
+    "name_cn": "我的英雄学院",
+    "name_jp": "僕のヒーローアカデミア",
+    "name_en": "My Hero Academia",
+    "aliases": [
+      "MHA",
+      "英雄学院",
+      "小英雄",
+      "Boku no Hero Academia"
+    ],
+    "genres": [
+      "Action",
+      "School",
+      "Supernatural",
+      "Comedy"
+    ],
+    "year": 2016,
+    "season": "Spring",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "在人人都有超能力\"个性\"的世界里，天生无个性的少年绿谷出久梦想成为最伟大的英雄。他继承了No.1英雄欧尔麦特的力量\"One For All\"，进入雄英高中学习成为职业英雄。本作以热血激情的战斗和丰富的角色群像塑造而闻名。绿谷与爆豪胜己的复杂关系以及敌联合的威胁构成了故事的核心冲突。",
+    "studio": "Bones",
+    "rating": 7.9,
+    "rank": 6,
+    "cover_gradient": "linear-gradient(135deg, #006400, #FF4500)",
+    "related_ids": [
+      1,
+      5,
+      7,
+      8,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 7,
+    "name_cn": "海贼王",
+    "name_jp": "ONE PIECE",
+    "name_en": "One Piece",
+    "aliases": [
+      "OP",
+      "航海王",
+      "路飞"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "year": 1999,
+    "season": "Fall",
+    "episodes": 1000,
+    "type": "TV",
+    "synopsis": "少年蒙奇·D·路飞戴着草帽出海，立志要找到传说中的大秘宝ONE PIECE，成为海贼王。他沿途召集伙伴，组成了草帽一伙，每一位船员都有着动人的梦想和背景故事。这部跨越四分之一个世纪的传奇作品以其宏大的世界观、深刻的社会隐喻和感人至深的故事成为日本漫画史上销量最高的作品。\"和之国篇\"将故事推向了最终章的高潮。",
+    "studio": "Toei Animation",
+    "rating": 8.6,
+    "rank": 7,
+    "cover_gradient": "linear-gradient(135deg, #FF4500, #FFD700)",
+    "related_ids": [
+      5,
+      8,
+      10,
+      11,
+      14,
+      15
+    ]
+  },
+  {
+    "id": 8,
+    "name_cn": "火影忍者",
+    "name_jp": "NARUTO -ナルト-",
+    "name_en": "Naruto",
+    "aliases": [
+      "火影",
+      "NARUTO",
+      "鸣人"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Martial Arts"
+    ],
+    "year": 2002,
+    "season": "Fall",
+    "episodes": 220,
+    "type": "TV",
+    "synopsis": "体内封印着九尾妖狐的少年漩涡鸣人，梦想成为村子最强的忍者——火影。他经历了无数的战斗和失去，逐渐从一个被孤立的吊车尾成长为受人尊敬的英雄。本作以其丰富的忍术体系、精彩的战斗智斗和深厚的羁绊主题影响了一代人。续作《博人传》延续了火影的传奇。",
+    "studio": "Pierrot",
+    "rating": 7.9,
+    "rank": 8,
+    "cover_gradient": "linear-gradient(135deg, #FF6600, #000080)",
+    "related_ids": [
+      1,
+      5,
+      6,
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "id": 9,
+    "name_cn": "死神",
+    "name_jp": "BLEACH",
+    "name_en": "Bleach",
+    "aliases": [
+      "BLEACH",
+      "境界",
+      "黑崎一护"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2004,
+    "season": "Fall",
+    "episodes": 366,
+    "type": "TV",
+    "synopsis": "高中生黑崎一护意外获得了死神之力，成为了代理死神。他必须保护现世免受虚的侵害，同时逐渐卷入尸魂界和虚圈的巨大纷争中。本作以其酷炫的斩魄刀设定和时髦的角色设计而闻名。2022年\"千年血战篇\"以全新的制作质量和还原原作的诚意回归，再次掀起热潮。",
+    "studio": "Pierrot",
+    "rating": 7.8,
+    "rank": 9,
+    "cover_gradient": "linear-gradient(135deg, #000000, #FF4500)",
+    "related_ids": [
+      2,
+      3,
+      8,
+      10,
+      11,
+      26
+    ]
+  },
+  {
+    "id": 10,
+    "name_cn": "龙珠Z",
+    "name_jp": "ドラゴンボールZ",
+    "name_en": "Dragon Ball Z",
+    "aliases": [
+      "DBZ",
+      "龙珠",
+      "七龙珠",
+      "Dragon Ball"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Martial Arts",
+      "Sci-Fi"
+    ],
+    "year": 1989,
+    "season": "Spring",
+    "episodes": 291,
+    "type": "TV",
+    "synopsis": "赛亚人孙悟空在得知自己的外星人身份后，面对来自宇宙各处的强敌，不断突破自身极限。从拉蒂兹到贝吉塔，从弗利萨到沙鲁，最后到魔人布欧，每一场战斗都成为动漫史上的经典。鸟山明创造的这部格斗漫画定义了少年漫画的基本范式，超级赛亚人的变身场景成为流行文化的标志性符号。",
+    "studio": "Toei Animation",
+    "rating": 8.1,
+    "rank": 10,
+    "cover_gradient": "linear-gradient(135deg, #FF6600, #FFD700)",
+    "related_ids": [
+      7,
+      8,
+      5,
+      6,
+      14,
+      27
+    ]
+  },
+  {
+    "id": 11,
+    "name_cn": "电锯人",
+    "name_jp": "チェンソーマン",
+    "name_en": "Chainsaw Man",
+    "aliases": [
+      "CSM",
+      "链锯人",
+      "电次"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural",
+      "Comedy"
+    ],
+    "year": 2022,
+    "season": "Fall",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "穷困潦倒的少年淀治为了偿还亡父的债务，与恶魔啵奇塔一起作为恶魔猎人工作。被杀害后，啵奇塔与他融合，使他获得了变身电锯人的能力。随后他被公安对魔特异4课收编，开始对抗各种强大的恶魔。藤本树以其疯狂的故事走向和对电影的热爱创造了这部黑暗而独特的作品。",
+    "studio": "MAPPA",
+    "rating": 8.5,
+    "rank": 11,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #FF8C00)",
+    "related_ids": [
+      1,
+      3,
+      9,
+      26,
+      251,
+      252
+    ]
+  },
+  {
+    "id": 12,
+    "name_cn": "一拳超人",
+    "name_jp": "ワンパンマン",
+    "name_en": "One Punch Man",
+    "aliases": [
+      "OPM",
+      "一击男",
+      "埼玉"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural",
+      "Sci-Fi"
+    ],
+    "year": 2015,
+    "season": "Fall",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "埼玉原本是一个普通的上班族，经过三年的特训后获得了无论任何敌人都能一拳打倒的绝对力量。然而过于强大的力量让他失去了战斗的激情和人生的意义。他成为了兴趣使然的英雄，与改造人弟子杰诺斯一起在英雄协会中活动。第一季由Madhouse制作的顶级打斗作画成为行业标杆。",
+    "studio": "Madhouse",
+    "rating": 8.5,
+    "rank": 12,
+    "cover_gradient": "linear-gradient(135deg, #FF4500, #FFD700)",
+    "related_ids": [
+      1,
+      5,
+      6,
+      11,
+      14,
+      23
+    ]
+  },
+  {
+    "id": 13,
+    "name_cn": "灵能百分百",
+    "name_jp": "モブサイコ100",
+    "name_en": "Mob Psycho 100",
+    "aliases": [
+      "MP100",
+      "路人超能100",
+      "龙套"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural",
+      "Slice of Life"
+    ],
+    "year": 2016,
+    "season": "Summer",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "影山茂夫是个看似平凡的中学生，但他拥有极其强大的超能力。他渴望过普通的生活，努力压抑自己的情感，因为当感情爆发时他的能力将失控。在灵能力者灵幻新隆的指导下，茂夫逐渐学会了接纳自己。ONE原作独特的画风在Bones的动画化中得到了极为精彩的呈现，打斗场面充满想象力。",
+    "studio": "Bones",
+    "rating": 8.4,
+    "rank": 13,
+    "cover_gradient": "linear-gradient(135deg, #4B0082, #FF69B4)",
+    "related_ids": [
+      12,
+      6,
+      5,
+      23,
+      136,
+      137
+    ]
+  },
+  {
+    "id": 14,
+    "name_cn": "东京喰种",
+    "name_jp": "東京喰種 トーキョーグール",
+    "name_en": "Tokyo Ghoul",
+    "aliases": [
+      "东京食尸鬼",
+      "喰种",
+      "金木研"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Psychological",
+      "Supernatural"
+    ],
+    "year": 2014,
+    "season": "Summer",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "在东京，潜伏着以人类为食的\"喰种\"。大学生金木研在一次约会中被喰种袭击，接受了器官移植手术后变成了半喰种。他不得不在人类与喰种两个世界之间挣扎求生。金木从一个温和的文学青年到白发喰种的蜕变是本作最令人印象深刻的角色弧线。",
+    "studio": "Pierrot",
+    "rating": 7.8,
+    "rank": 14,
+    "cover_gradient": "linear-gradient(135deg, #000000, #8B0000)",
+    "related_ids": [
+      1,
+      2,
+      9,
+      21,
+      201,
+      202
+    ]
+  },
+  {
+    "id": 15,
+    "name_cn": "斩·赤红之瞳！",
+    "name_jp": "アカメが斬る!",
+    "name_en": "Akame ga Kill!",
+    "aliases": [
+      "赤瞳",
+      "斩赤红之瞳",
+      "Akame ga Kiru"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Military"
+    ],
+    "year": 2014,
+    "season": "Summer",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "少年剑士辰巳来到帝都寻找出人头地的机会，却发现了帝都繁荣外表下的腐败与黑暗。他加入了暗杀组织Night Raid，与持有帝具的伙伴们一起对抗腐朽的帝国。本作以其毫不留情的角色死亡和残酷的战斗而闻名，动画版采用了与漫画不同的原创结局。",
+    "studio": "White Fox",
+    "rating": 7.5,
+    "rank": 15,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #1a1a1a)",
+    "related_ids": [
+      1,
+      8,
+      14,
+      21,
+      86,
+      116
+    ]
+  },
+  {
+    "id": 16,
+    "name_cn": "噬魂师",
+    "name_jp": "ソウルイーター",
+    "name_en": "Soul Eater",
+    "aliases": [
+      "SOUL EATER",
+      "噬魂者"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural",
+      "School"
+    ],
+    "year": 2008,
+    "season": "Spring",
+    "episodes": 51,
+    "type": "TV",
+    "synopsis": "死神武器职人专门学校中，学生分为\"职人\"和\"武器\"，他们组队作战，目标是收集99个鬼神的灵魂和1个魔女的灵魂，将武器进化为死神武器。玛嘉·亚尔班与她的武器噬魂一起踏上了这条危险的道路。本作以独特的万圣节美学风格和出色的动作设计著称。",
+    "studio": "Bones",
+    "rating": 7.8,
+    "rank": 16,
+    "cover_gradient": "linear-gradient(135deg, #FF6600, #4B0082)",
+    "related_ids": [
+      4,
+      6,
+      11,
+      13,
+      14,
+      17
+    ]
+  },
+  {
+    "id": 17,
+    "name_cn": "妖精的尾巴",
+    "name_jp": "FAIRY TAIL",
+    "name_en": "Fairy Tail",
+    "aliases": [
+      "FT",
+      "妖尾",
+      "妖精尾巴"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "year": 2009,
+    "season": "Fall",
+    "episodes": 175,
+    "type": "TV",
+    "synopsis": "在一个充满魔法的世界中，少女露西·哈特菲利亚梦想加入魔导士公会\"妖精的尾巴\"。她遇到了火之灭龙魔导士纳兹·多拉格尼尔和会说话的猫哈比，一同加入了公会。本作的核心主题是\"伙伴与羁绊\"，以热血激昂的战斗和温馨的日常交织而成。",
+    "studio": "A-1 Pictures",
+    "rating": 7.7,
+    "rank": 17,
+    "cover_gradient": "linear-gradient(135deg, #FF4500, #FFD700)",
+    "related_ids": [
+      7,
+      8,
+      10,
+      14,
+      18,
+      86
+    ]
+  },
+  {
+    "id": 18,
+    "name_cn": "黑色五叶草",
+    "name_jp": "ブラッククローバー",
+    "name_en": "Black Clover",
+    "aliases": [
+      "BC",
+      "黑草",
+      "黑色四叶草"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "year": 2017,
+    "season": "Fall",
+    "episodes": 170,
+    "type": "TV",
+    "synopsis": "在人人都会使用魔法的世界里，天生不会魔法的少年亚斯塔却梦想成为魔法帝。他获得了一本反魔法魔导书，以蛮力和不服输的精神不断变强。与好友尤诺的竞争和合作推动着故事发展。本作前期因制作质量受到争议，但随着剧情推进和作画改善赢得了越来越多观众的认可。",
+    "studio": "Pierrot",
+    "rating": 7.5,
+    "rank": 18,
+    "cover_gradient": "linear-gradient(135deg, #000000, #228B22)",
+    "related_ids": [
+      8,
+      17,
+      6,
+      5,
+      7,
+      10
+    ]
+  },
+  {
+    "id": 19,
+    "name_cn": "炎炎消防队",
+    "name_jp": "炎炎ノ消防隊",
+    "name_en": "Fire Force",
+    "aliases": [
+      "炎炎",
+      "消防队",
+      "Fire Force"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 2019,
+    "season": "Summer",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "在一个人类会突然自燃变成\"焰人\"的世界里，特殊消防队是唯一能对抗焰人的组织。少年森罗日下部拥有从脚底发火的特殊能力，他加入第8特殊消防队，一边对抗焰人一边调查导致家人死亡的那场大火的真相。大久保笃在噬魂师之后的又一力作，拥有出色的音效设计和战斗演出。",
+    "studio": "David Production",
+    "rating": 7.7,
+    "rank": 19,
+    "cover_gradient": "linear-gradient(135deg, #FF4500, #0000CD)",
+    "related_ids": [
+      16,
+      1,
+      8,
+      11,
+      21,
+      27
+    ]
+  },
+  {
+    "id": 20,
+    "name_cn": "青之驱魔师",
+    "name_jp": "青の祓魔師",
+    "name_en": "Blue Exorcist",
+    "aliases": [
+      "蓝驱",
+      "青驱",
+      "青之除魔师"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "School",
+      "Fantasy"
+    ],
+    "year": 2011,
+    "season": "Spring",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "奥村燐和奥村雪男是一对双胞胎兄弟，由神父藤本狮郎抚养长大。某天燐发现自己是魔神撒旦的儿子，他决定成为最强的驱魔师来对抗自己的命运。他进入了正十字学园学习驱魔术，与伙伴们一起对抗恶魔。本作融合了驱魔战斗与校园生活的元素。",
+    "studio": "A-1 Pictures",
+    "rating": 7.4,
+    "rank": 20,
+    "cover_gradient": "linear-gradient(135deg, #0000CD, #000080)",
+    "related_ids": [
+      1,
+      2,
+      6,
+      9,
+      16,
+      21
+    ]
+  },
+  {
+    "id": 21,
+    "name_cn": "D.Gray-man",
+    "name_jp": "ディーグレイマン",
+    "name_en": "D.Gray-man",
+    "aliases": [
+      "驱魔少年",
+      "D格雷少年",
+      "格雷少年"
+    ],
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Adventure",
+      "Horror"
+    ],
+    "year": 2006,
+    "season": "Fall",
+    "episodes": 103,
+    "type": "TV",
+    "synopsis": "少年亚连·沃克拥有能退治恶魔的左臂——神之道化。他加入了黑色教团，成为驱魔师，与制造恶魔的千年伯爵及其手下诺亚一族战斗。背景设定在虚构的19世纪末欧洲，哥特式的美学风格与宗教元素交织。星野桂因病长期休刊使本作成为粉丝们漫长等待的对象。",
+    "studio": "TMS Entertainment",
+    "rating": 7.9,
+    "rank": 21,
+    "cover_gradient": "linear-gradient(135deg, #2F4F4F, #000000)",
+    "related_ids": [
+      1,
+      9,
+      14,
+      16,
+      20,
+      27
+    ]
+  },
+  {
+    "id": 22,
+    "name_cn": "暗杀教室",
+    "name_jp": "暗殺教室",
+    "name_en": "Assassination Classroom",
+    "aliases": [
+      "暗杀",
+      "杀老师",
+      "三年E班"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "School",
+      "Sci-Fi"
+    ],
+    "year": 2015,
+    "season": "Winter",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "拥有超高速移动的章鱼形生物\"杀老师\"摧毁了月球七成，并宣称将在一年后毁灭地球。他成了椚丘中学3年E班的班主任，而学生们则被政府委托暗杀他。学生们在一次次失败的暗杀尝试中获得了杀老师的关爱和教诲，逐渐从被放弃的\"差生\"蜕变为自信的年轻人。故事的结局令人泪目。",
+    "studio": "Lerche",
+    "rating": 8.1,
+    "rank": 22,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FF8C00)",
+    "related_ids": [
+      6,
+      13,
+      56,
+      57,
+      64,
+      137
+    ]
+  },
+  {
+    "id": 23,
+    "name_cn": "魔法禁书目录",
+    "name_jp": "とある魔術の禁書目録",
+    "name_en": "A Certain Magical Index",
+    "aliases": [
+      "魔禁",
+      "Toaru Majutsu no Index",
+      "Index",
+      "小黄书"
+    ],
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "School"
+    ],
+    "year": 2008,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "在学园都市这个超能力者聚集的城市中，拥有\"幻想杀手\"能力的上条当麻过着不幸的日常。直到他遇见了从魔法侧逃来的修女茵蒂克丝，被卷入了科学与魔法交织的巨大冲突中。本作构建了极为庞大复杂的世界观，衍生作品《某科学的超电磁炮》更是获得了极高的人气。",
+    "studio": "J.C.Staff",
+    "rating": 7.3,
+    "rank": 23,
+    "cover_gradient": "linear-gradient(135deg, #0000CD, #FFD700)",
+    "related_ids": [
+      6,
+      12,
+      13,
+      116,
+      117,
+      141
+    ]
+  },
+  {
+    "id": 24,
+    "name_cn": "某科学的超电磁炮",
+    "name_jp": "とある科学の超電磁砲",
+    "name_en": "A Certain Scientific Railgun",
+    "aliases": [
+      "超炮",
+      "Railgun",
+      "炮姐",
+      "超电磁炮"
+    ],
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "School",
+      "Fantasy"
+    ],
+    "year": 2009,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "学园都市仅有的七名超能力者中排名第三的御坂美琴，与她的伙伴白井黑子、初春饰利和佐天泪子的日常与战斗。作为《魔法禁书目录》的外传，本作以其精彩的战斗场景、温馨的友情描写和深入的黑暗面揭露获得了比正传更高的人气。御坂美琴的\"超电磁炮\"成为动漫中最具标志性的招式之一。",
+    "studio": "J.C.Staff",
+    "rating": 7.9,
+    "rank": 24,
+    "cover_gradient": "linear-gradient(135deg, #4B0082, #00BFFF)",
+    "related_ids": [
+      23,
+      6,
+      13,
+      116,
+      141,
+      246
+    ]
+  },
+  {
+    "id": 25,
+    "name_cn": "狂赌之渊",
+    "name_jp": "賭ケグルイ",
+    "name_en": "Kakegurui: Compulsive Gambler",
+    "aliases": [
+      "Kakegurui",
+      "狂赌",
+      "赌博默示录"
+    ],
+    "genres": [
+      "Thriller",
+      "Psychological",
+      "School",
+      "Mystery"
+    ],
+    "year": 2017,
+    "season": "Summer",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "私立百花王学园是一所以赌博能力决定学生地位的精英学校。转学生蛇喰梦子表面上是端庄优雅的美少女，实际上却是为赌博而生、享受赌博风险的赌徒。她以超常的赌技和心理战术击败了一个又一个对手。本作夸张的面部表情演出和令人窒息的赌局设计使其独树一帜。",
+    "studio": "MAPPA",
+    "rating": 7.5,
+    "rank": 25,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #1a1a1a)",
+    "related_ids": [
+      26,
+      201,
+      202,
+      203,
+      204,
+      205
+    ]
+  },
+  {
+    "id": 26,
+    "name_cn": "死亡笔记",
+    "name_jp": "DEATH NOTE",
+    "name_en": "Death Note",
+    "aliases": [
+      "DN",
+      "死笔",
+      "小册子"
+    ],
+    "genres": [
+      "Thriller",
+      "Psychological",
+      "Supernatural",
+      "Mystery"
+    ],
+    "year": 2006,
+    "season": "Fall",
+    "episodes": 37,
+    "type": "TV",
+    "synopsis": "天才高中生夜神月捡到了一本死神琉克丢落的死亡笔记，只要在上面写下人名，那个人就会死亡。月化名\"基拉\"开始以笔记制裁罪犯，试图创造一个没有犯罪的理想世界。世界级侦探L与基拉展开了一场惊心动魄的智力对决。本作以其紧凑的猫鼠游戏、道德困境和令人难忘的角色设计成为心理悬疑类的巅峰之作。",
+    "studio": "Madhouse",
+    "rating": 8.6,
+    "rank": 26,
+    "cover_gradient": "linear-gradient(135deg, #000000, #8B0000)",
+    "related_ids": [
+      201,
+      202,
+      203,
+      116,
+      117,
+      21
+    ]
+  },
+  {
+    "id": 27,
+    "name_cn": "剑风传奇",
+    "name_jp": "ベルセルク",
+    "name_en": "Berserk",
+    "aliases": [
+      "ベルセルク",
+      "烙印战士",
+      "烙印勇士"
+    ],
+    "genres": [
+      "Action",
+      "Horror",
+      "Drama",
+      "Fantasy",
+      "Military"
+    ],
+    "year": 1997,
+    "season": "Fall",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "黑色剑士格斯背负着巨大的斩龙剑和对使徒的仇恨独自踏上复仇之旅。故事回溯到他作为佣兵的过去，他与鹰之团团长格里菲斯的相遇改变了所有人的命运。\"蚀\"之刻的悲剧是动漫史上最黑暗的篇章之一。三浦健太郎以极致细腻的笔触描绘了一个绝望与希望并存的中世纪黑暗奇幻世界。",
+    "studio": "OLM",
+    "rating": 8.5,
+    "rank": 27,
+    "cover_gradient": "linear-gradient(135deg, #000000, #8B0000)",
+    "related_ids": [
+      1,
+      14,
+      21,
+      4,
+      86,
+      88
+    ]
+  },
+  {
+    "id": 28,
+    "name_cn": "七原罪",
+    "name_jp": "七つの大罪",
+    "name_en": "The Seven Deadly Sins",
+    "aliases": [
+      "七宗罪",
+      "七大罪",
+      "Nanatsu no Taizai"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "year": 2014,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "里昂妮丝王国的公主伊丽莎白踏上寻找传说中的骑士团\"七大罪\"的旅途，以对抗圣骑士团的暴政。她找到了七大罪的团长——一个看起来像小孩的梅利奥达斯。随着伙伴的逐一集结，古老的神族与魔族的战争真相逐渐浮出水面。后期动画制作质量的下滑成为粉丝讨论的焦点。",
+    "studio": "A-1 Pictures",
+    "rating": 7.8,
+    "rank": 28,
+    "cover_gradient": "linear-gradient(135deg, #228B22, #FFD700)",
+    "related_ids": [
+      17,
+      18,
+      5,
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "id": 29,
+    "name_cn": "浪客剑心",
+    "name_jp": "るろうに剣心 -明治剣客浪漫譚-",
+    "name_en": "Rurouni Kenshin",
+    "aliases": [
+      "浪客剑心",
+      "剑心",
+      "绯村剑心"
+    ],
+    "genres": [
+      "Action",
+      "Historical",
+      "Samurai",
+      "Romance"
+    ],
+    "year": 1996,
+    "season": "Winter",
+    "episodes": 94,
+    "type": "TV",
+    "synopsis": "明治时代，曾经的刽子手拔刀斋绯村剑心发誓不再杀人，持逆刃刀踏上了赎罪之旅。他在神谷道场安顿下来，与神谷薰、明神弥彦和相乐左之助等人建立了深厚的羁绊。追忆篇OVA以其极高的艺术水准被公认为动画史上的巅峰OVA作品之一。2023年的重制版以更贴近原作的改编重新讲述了这个经典故事。",
+    "studio": "Gallop",
+    "rating": 8.2,
+    "rank": 29,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #FFE4C4)",
+    "related_ids": [
+      2,
+      8,
+      4,
+      15,
+      31,
+      40
+    ]
+  },
+  {
+    "id": 30,
+    "name_cn": "无头骑士异闻录",
+    "name_jp": "デュラララ!!",
+    "name_en": "Durarara!!",
+    "aliases": [
+      "DRRR",
+      "无头",
+      "池袋"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural",
+      "Drama"
+    ],
+    "year": 2010,
+    "season": "Winter",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "在东京池袋，无头骑士塞尔提穿梭于都市传说与现实之间。少年龙之峰帝人来到池袋，被卷入街头帮派、情报贩子和各种异能者交织的混沌中。成田良悟独特的群像剧叙事手法，将所有看似无关的角色命运巧妙地编织在一起。本作是《永生之酒》原作者的又一力作。",
+    "studio": "Brain's Base",
+    "rating": 7.9,
+    "rank": 30,
+    "cover_gradient": "linear-gradient(135deg, #2F4F4F, #FFD700)",
+    "related_ids": [
+      25,
+      26,
+      201,
+      30,
+      37,
+      205
+    ]
+  },
+  {
+    "id": 31,
+    "name_cn": "摇曳露营△",
+    "name_jp": "ゆるキャン△",
+    "name_en": "Laid-Back Camp",
+    "aliases": [
+      "Yuru Camp",
+      "露营",
+      "摇曳露营"
+    ],
+    "genres": [
+      "Slice of Life",
+      "CGDCT",
+      "Iyashikei",
+      "Adventure"
+    ],
+    "year": 2018,
+    "season": "Winter",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "喜欢独自露营的高中女生志摩凛，在一个冬日的湖边遇到了睡在路边的各务原抚子。这次邂逅让抚子爱上了露营，也让她加入了学校的野外活动社团。本作以温暖的画风、详实的露营知识和舒缓的节奏，带领观众领略日本各地的自然风光。在疫情之后，这部作品所传达的\"独处的自在\"和\"与朋友相处的温暖\"更显珍贵。",
+    "studio": "C-Station",
+    "rating": 8.4,
+    "rank": 31,
+    "cover_gradient": "linear-gradient(135deg, #228B22, #FFDAB9)",
+    "related_ids": [
+      32,
+      33,
+      136,
+      137,
+      138,
+      181
+    ]
+  },
+  {
+    "id": 32,
+    "name_cn": "悠闲野活",
+    "name_jp": "のんのんびより",
+    "name_en": "Non Non Biyori",
+    "aliases": [
+      "NNB",
+      "悠哉日常大王",
+      "乡间日常"
+    ],
+    "genres": [
+      "Slice of Life",
+      "CGDCT",
+      "Iyashikei",
+      "Comedy"
+    ],
+    "year": 2013,
+    "season": "Fall",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "一条萤从东京转学到了乡下的旭丘分校，这里全校只有五个不同年级的学生。在充满大自然气息的乡村中，女孩子们过着悠哉的日常——在田间小路散步、在河边玩耍、在老旧的校舍中学习。本作以精美的田园风光描绘和让人会心一笑的日常片段治愈了无数观众。\"喵帕斯\"的问候语成为网络流行语。",
+    "studio": "Silver Link",
+    "rating": 8.1,
+    "rank": 32,
+    "cover_gradient": "linear-gradient(135deg, #98FB98, #FFD700)",
+    "related_ids": [
+      31,
+      33,
+      136,
+      137,
+      181,
+      182
+    ]
+  },
+  {
+    "id": 33,
+    "name_cn": "少女终末旅行",
+    "name_jp": "少女終末旅行",
+    "name_en": "Girls' Last Tour",
+    "aliases": [
+      "终末旅行",
+      "少女终末",
+      "GLT"
+    ],
+    "genres": [
+      "Slice of Life",
+      "Sci-Fi",
+      "Post-Apocalyptic",
+      "Adventure"
+    ],
+    "year": 2017,
+    "season": "Fall",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "在人类文明崩溃后的末日世界里，两个少女——千户和尤莉驾驶着半履带摩托车漫无目的地旅行。她们在废墟中寻找食物和燃料，在空旷的城市中探索前人的痕迹。本作以独特的哲学视角探讨了生存的意义和文明的价值。在绝望的背景下，两个少女的日常对话却充满了温馨与思考。",
+    "studio": "White Fox",
+    "rating": 8.1,
+    "rank": 33,
+    "cover_gradient": "linear-gradient(135deg, #708090, #F5DEB3)",
+    "related_ids": [
+      31,
+      32,
+      181,
+      182,
+      121,
+      116
+    ]
+  },
+  {
+    "id": 34,
+    "name_cn": "文豪野犬",
+    "name_jp": "文豪ストレイドッグス",
+    "name_en": "Bungo Stray Dogs",
+    "aliases": [
+      "BSD",
+      "文野",
+      "文豪野犬"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural",
+      "Drama"
+    ],
+    "year": 2016,
+    "season": "Spring",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "被赶出孤儿院的中岛敦在横滨遇到了武装侦探社的成员，并加入了他们。侦探社的社员们都拥有以著名文豪命名的特殊能力，他们与港口黑手党等势力展开激烈的能力战斗。本作将太宰治、芥川龙之介等日本文豪的名字融入能力设定中，创造了一个独特的异能战斗世界。",
+    "studio": "Bones",
+    "rating": 7.8,
+    "rank": 34,
+    "cover_gradient": "linear-gradient(135deg, #4A4A6A, #1a1a2e)",
+    "related_ids": [
+      30,
+      1,
+      2,
+      3,
+      25,
+      201
+    ]
+  },
+  {
+    "id": 35,
+    "name_cn": "不死者之王",
+    "name_jp": "オーバーロード",
+    "name_en": "Overlord",
+    "aliases": [
+      "骨王",
+      "Overlord",
+      "安兹"
+    ],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Isekai",
+      "Game"
+    ],
+    "year": 2015,
+    "season": "Summer",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "人气VR游戏YGGDRASIL即将停服，玩家铃木悟以自己经营多年的不死族大法师角色\"安兹·乌尔·恭\"留在游戏中等待最后一刻。然而游戏没有关闭，他穿越到了异世界，而他的NPC们也都拥有了自我意识。安兹为了在这些忠诚的部下面前维持威严的统治者形象，开始了征服世界的计划。",
+    "studio": "Madhouse",
+    "rating": 7.9,
+    "rank": 35,
+    "cover_gradient": "linear-gradient(135deg, #2F1B4E, #000000)",
+    "related_ids": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ]
+  },
+  {
+    "id": 36,
+    "name_cn": "新世纪福音战士",
+    "name_jp": "新世紀エヴァンゲリオン",
+    "name_en": "Neon Genesis Evangelion",
+    "aliases": [
+      "EVA",
+      "福音战士",
+      "EVA新世纪福音战士"
+    ],
+    "genres": [
+      "Mecha",
+      "Psychological",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "year": 1995,
+    "season": "Fall",
+    "episodes": 26,
+    "type": "TV",
+    "synopsis": "14岁的少年碇真嗣被父亲召唤到NERV组织，驾驶巨大机器人EVA与神秘敌人\"使徒\"战斗。在一次次惨烈的战斗背后，隐藏着人类补完计划的惊人真相。庵野秀明在这部作品中深刻地探讨了孤独、自我认同和人际关系的主题。TV版最后两集的意识流表现和剧场版《Air/真心为你》的震撼结局使其成为动画史上最具争议和影响力的作品之一。",
+    "studio": "Gainax",
+    "rating": 8.3,
+    "rank": 36,
+    "cover_gradient": "linear-gradient(135deg, #4B0082, #006400)",
+    "related_ids": [
+      37,
+      44,
+      116,
+      117,
+      118,
+      121
+    ]
+  },
+  {
+    "id": 37,
+    "name_cn": "星际牛仔",
+    "name_jp": "カウボーイビバップ",
+    "name_en": "Cowboy Bebop",
+    "aliases": [
+      "CB",
+      "星际牛仔",
+      "赏金猎人"
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "year": 1998,
+    "season": "Spring",
+    "episodes": 26,
+    "type": "TV",
+    "synopsis": "2071年，人类已经遍布太阳系。赏金猎人斯派克·斯皮格尔和杰特·布莱克驾驶着飞船Bebop号在星际间追逐赏金。他们的旅途中加入了身负巨债的菲·瓦伦坦、天才黑客少女爱德华和一只数据狗爱因。菅野洋子创作的爵士乐配乐与太空西部风格完美融合，每一集都是一个独立而完整的故事。本作被誉为动画艺术的巅峰之一。",
+    "studio": "Sunrise",
+    "rating": 8.7,
+    "rank": 37,
+    "cover_gradient": "linear-gradient(135deg, #000080, #FF8C00)",
+    "related_ids": [
+      38,
+      39,
+      40,
+      36,
+      41,
+      116
+    ]
+  },
+  {
+    "id": 38,
+    "name_cn": "混沌武士",
+    "name_jp": "サムライチャンプルー",
+    "name_en": "Samurai Champloo",
+    "aliases": [
+      "武士大杂烩",
+      "琉球武士",
+      "混沌武士"
+    ],
+    "genres": [
+      "Action",
+      "Historical",
+      "Samurai",
+      "Adventure"
+    ],
+    "year": 2004,
+    "season": "Spring",
+    "episodes": 26,
+    "type": "TV",
+    "synopsis": "茶馆女侍风偶然将两个剑术高手——冷静沉着的武士仁和街头浪人无幻从死刑中救出，条件是两人要帮她寻找\"带有向日葵气味的武士\"。三人于是踏上了横跨江户日本之旅。本作将hip-hop音乐与江户时代的武士文化大胆融合，导演渡边信一郎延续了《星际牛仔》的独特风格。",
+    "studio": "manglobe",
+    "rating": 8.3,
+    "rank": 38,
+    "cover_gradient": "linear-gradient(135deg, #8B4513, #FFD700)",
+    "related_ids": [
+      37,
+      39,
+      40,
+      29,
+      38,
+      41
+    ]
+  },
+  {
+    "id": 39,
+    "name_cn": "枪神",
+    "name_jp": "トライガン",
+    "name_en": "Trigun",
+    "aliases": [
+      "TRIGUN",
+      "枪神",
+      "法修"
+    ],
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "year": 1998,
+    "season": "Spring",
+    "episodes": 26,
+    "type": "TV",
+    "synopsis": "在遥远的沙漠星球上，有着悬赏六百亿的双枪手\"人间台风\"法修·史丹比特。所有见到他的人都确信他就是传说中的破坏狂魔，但法修实际上是一个坚决不杀人的和平主义者。他用自己的方式在枪林弹雨中守护着每一个生命。2023年由Orange制作的重制版《TRIGUN STAMPEDE》以全新的3DCG技术重新演绎了这个经典故事。",
+    "studio": "Madhouse",
+    "rating": 8.1,
+    "rank": 39,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #FFD700)",
+    "related_ids": [
+      37,
+      38,
+      40,
+      41,
+      27,
+      29
+    ]
+  },
+  {
+    "id": 40,
+    "name_cn": "阿基拉",
+    "name_jp": "AKIRA",
+    "name_en": "Akira",
+    "aliases": [
+      "AKIRA",
+      "亚基拉",
+      "光明战士"
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Psychological",
+      "Cyberpunk"
+    ],
+    "year": 1988,
+    "season": "Summer",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "2019年，第三次世界大战后的东京(新东京)。暴走族少年金田正太郎和岛铁雄在军方秘密实验的牵连下被卷入了一场惊天阴谋。铁雄被激发出超能力后逐渐失控，威胁到了整个城市的安全。大友克洋导演的这部动画电影以当时惊人的制作水准和作画密度震惊了全世界。本作是赛博朋克动画的里程碑，直接影响了之后无数的科幻作品。",
+    "studio": "Tokyo Movie Shinsha",
+    "rating": 8.1,
+    "rank": 40,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #0000CD)",
+    "related_ids": [
+      36,
+      41,
+      116,
+      117,
+      118,
+      121
+    ]
+  },
+  {
+    "id": 41,
+    "name_cn": "攻壳机动队",
+    "name_jp": "GHOST IN THE SHELL 攻殻機動隊",
+    "name_en": "Ghost in the Shell",
+    "aliases": [
+      "攻壳",
+      "GIS",
+      "攻壳机动队1995"
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Psychological",
+      "Cyberpunk"
+    ],
+    "year": 1995,
+    "season": "Fall",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "在2029年的未来，人类已经实现了全身义体化和电子脑的普及。公安9课的草薙素子少佐在追踪一名名为\"傀儡师\"的黑客时，开始质疑自身的存在意义——如果连记忆都可以被篡改，那么\"我\"是谁？押井守导演将士郎正宗的漫画改编为一部深沉的哲学作品，其对人工智能、自我意识和灵魂本质的探讨至今仍具前瞻性。",
+    "studio": "Production I.G",
+    "rating": 8.3,
+    "rank": 41,
+    "cover_gradient": "linear-gradient(135deg, #000080, #00FF7F)",
+    "related_ids": [
+      40,
+      36,
+      37,
+      116,
+      117,
+      121
+    ]
+  },
+  {
+    "id": 42,
+    "name_cn": "未麻的部屋",
+    "name_jp": "PERFECT BLUE",
+    "name_en": "Perfect Blue",
+    "aliases": [
+      "蓝色恐惧",
+      "未麻的房间",
+      "Perfect Blue"
+    ],
+    "genres": [
+      "Psychological",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1998,
+    "season": "Winter",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "偶像团体成员雾越未麻决定退出团体转型为演员，却遭到了疯狂粉丝的反对和威胁。当她接下了一场强暴戏后，事件开始升级——她的博客被人暗中更新，身边的人接连被杀害，而未麻自己也开始分不清现实与幻想的界限。今敏导演的处女作以其对身份认同和实境混淆的深刻探讨影响了达伦·阿伦诺夫斯基的《黑天鹅》等好莱坞作品。",
+    "studio": "Madhouse",
+    "rating": 8.2,
+    "rank": 42,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #1a1a1a)",
+    "related_ids": [
+      36,
+      41,
+      203,
+      204,
+      205,
+      210
+    ]
+  },
+  {
+    "id": 43,
+    "name_cn": "幽灵公主",
+    "name_jp": "もののけ姫",
+    "name_en": "Princess Mononoke",
+    "aliases": [
+      "幽灵公主",
+      "魔法公主",
+      "Mononoke Hime"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Historical"
+    ],
+    "year": 1997,
+    "season": "Summer",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "虾夷族少年阿席达卡为了保护村子杀死了邪魔神，却因此受到了诅咒。为了寻找解除诅咒的方法，他来到了西方的达达拉城，卷入了人类与森林之神之间的战争。他在森林中遇到了被狼神养大的人类少女珊——幽灵公主。宫崎骏以壮丽的自然景观描绘和复杂的角色立场探讨了人与自然共存的永恒主题。",
+    "studio": "Studio Ghibli",
+    "rating": 8.4,
+    "rank": 43,
+    "cover_gradient": "linear-gradient(135deg, #228B22, #006400)",
+    "related_ids": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      216
+    ]
+  },
+  {
+    "id": 44,
+    "name_cn": "千与千寻",
+    "name_jp": "千と千尋の神隠し",
+    "name_en": "Spirited Away",
+    "aliases": [
+      "千与千寻",
+      "神隐少女",
+      "千寻"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Supernatural",
+      "Drama"
+    ],
+    "year": 2001,
+    "season": "Summer",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "少女荻野千寻在随父母搬家的途中误入了神灵的世界。她的父母因贪吃变成了猪，千寻必须在汤婆婆经营的油屋中工作以求得生存和拯救父母的机会。在这段奇异的经历中，她遇到了神秘的少年白龙、孤独的无脸男和众多形形色色的神灵。本作是唯一获得奥斯卡最佳动画长片奖的非英语动画电影，也是日本影史票房冠军保持者。",
+    "studio": "Studio Ghibli",
+    "rating": 8.8,
+    "rank": 44,
+    "cover_gradient": "linear-gradient(135deg, #FF6347, #FFD700)",
+    "related_ids": [
+      43,
+      45,
+      46,
+      47,
+      48,
+      216
+    ]
+  },
+  {
+    "id": 45,
+    "name_cn": "风之谷",
+    "name_jp": "風の谷のナウシカ",
+    "name_en": "Nausicaä of the Valley of the Wind",
+    "aliases": [
+      "风之谷",
+      "娜乌西卡",
+      "风之谷的娜乌西卡"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Post-Apocalyptic"
+    ],
+    "year": 1984,
+    "season": "Spring",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "在工业文明崩溃一千年后，大地被释放有毒瘴气的腐海覆盖。风之谷的公主娜乌西卡驾驶着滑翔翼在腐海中探索，试图寻找人类与自然的共存之道。当多鲁美奇亚王国的军队入侵风之谷，试图复活远古的巨神兵时，娜乌西卡以自己的生命为代价平息了自然的愤怒。本作奠定了宫崎骏导演的环保主义主题和吉卜力工作室的成立基础。",
+    "studio": "Topcraft",
+    "rating": 8.3,
+    "rank": 45,
+    "cover_gradient": "linear-gradient(135deg, #228B22, #87CEEB)",
+    "related_ids": [
+      43,
+      44,
+      46,
+      47,
+      48,
+      33
+    ]
+  },
+  {
+    "id": 46,
+    "name_cn": "哈尔的移动城堡",
+    "name_jp": "ハウルの動く城",
+    "name_en": "Howl's Moving Castle",
+    "aliases": [
+      "哈尔",
+      "移动城堡",
+      "霍尔的移动城堡"
+    ],
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Romance",
+      "Drama"
+    ],
+    "year": 2004,
+    "season": "Fall",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "制帽店工作的少女苏菲被荒野女巫施了魔法变成了老婆婆。为了解除诅咒，她闯入了传说中会吃人心的魔法师哈尔的移动城堡，以清洁妇的身份住了下来。在那里她遇到了火魔卡西法、学徒马鲁克和英俊却内心脆弱的哈尔。宫崎骏以绚丽的幻想世界和反战的主题呈现了一段关于自信与爱的童话。苏菲从自卑到勇敢的成长令人动容。",
+    "studio": "Studio Ghibli",
+    "rating": 8.5,
+    "rank": 46,
+    "cover_gradient": "linear-gradient(135deg, #9370DB, #FFD700)",
+    "related_ids": [
+      44,
+      45,
+      47,
+      48,
+      56,
+      218
+    ]
+  },
+  {
+    "id": 47,
+    "name_cn": "萤火虫之墓",
+    "name_jp": "火垂るの墓",
+    "name_en": "Grave of the Fireflies",
+    "aliases": [
+      "萤火虫之墓",
+      "再见萤火虫",
+      "火垂之墓"
+    ],
+    "genres": [
+      "Drama",
+      "Historical",
+      "War"
+    ],
+    "year": 1988,
+    "season": "Spring",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "第二次世界战争的尾声，神户遭到空袭。14岁的清太和4岁的妹妹节子在空袭中失去了母亲和家，只能投靠远房亲戚。在亲戚的冷眼下，兄妹二人搬到防空洞独自生活，却在饥饿和疾病中逐渐走向绝望。高畑勋导演以近乎残酷的写实笔触描绘了战争对普通人的摧残。本作被广泛认为是最令人心碎的反战动画电影。",
+    "studio": "Studio Ghibli",
+    "rating": 8.5,
+    "rank": 47,
+    "cover_gradient": "linear-gradient(135deg, #2F1B0E, #FFD700)",
+    "related_ids": [
+      45,
+      48,
+      216,
+      217,
+      36,
+      121
+    ]
+  },
+  {
+    "id": 48,
+    "name_cn": "天空之城",
+    "name_jp": "天空の城ラピュタ",
+    "name_en": "Castle in the Sky",
+    "aliases": [
+      "Laputa",
+      "天空之城",
+      "拉普达"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Action"
+    ],
+    "year": 1986,
+    "season": "Summer",
+    "episodes": 0,
+    "type": "Movie",
+    "synopsis": "少女希达从飞空艇上坠落，被少年巴鲁接住。她拥有一颗飞行石，是寻找传说中漂浮在空中的天空之城拉普达的钥匙。政府军和空中海盗都盯上了她，希达和巴鲁在躲避追捕的同时逐渐接近拉普达的秘密。宫崎骏以惊人的想象力和对飞行器的热爱创造了一个蒸汽朋克与自然共存的幻想世界。久石让的配乐已成为不朽经典。",
+    "studio": "Studio Ghibli",
+    "rating": 8.2,
+    "rank": 48,
+    "cover_gradient": "linear-gradient(135deg, #87CEEB, #006400)",
+    "related_ids": [
+      44,
+      45,
+      46,
+      43,
+      216,
+      217
+    ]
+  },
+  {
+    "id": 49,
+    "name_cn": "银河英雄传说",
+    "name_jp": "銀河英雄伝説",
+    "name_en": "Legend of the Galactic Heroes",
+    "aliases": [
+      "LOGH",
+      "银英",
+      "银河英雄传"
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Military",
+      "Drama",
+      "Adventure"
+    ],
+    "year": 1988,
+    "season": "Winter",
+    "episodes": 110,
+    "type": "OVA",
+    "synopsis": "在遥远的未来，银河帝国与自由行星同盟之间的战争已经持续了一百五十年。帝国方出现了天才军事家莱因哈特·冯·罗严克拉姆，同盟方则有不败的魔术师杨威利。两位英雄在浩瀚星海中展开了一场关于战争、政治和人类命运的史诗对决。田中芳树的原作以其宏大的叙事格局和对民主与专制制度的深入探讨而著称。",
+    "studio": "Kitty Films",
+    "rating": 8.8,
+    "rank": 49,
+    "cover_gradient": "linear-gradient(135deg, #000080, #FFD700)",
+    "related_ids": [
+      36,
+      37,
+      41,
+      116,
+      117,
+      118
+    ]
+  },
+  {
+    "id": 50,
+    "name_cn": "少女革命",
+    "name_jp": "少女革命ウテナ",
+    "name_en": "Revolutionary Girl Utena",
+    "aliases": [
+      "少革",
+      "Utena",
+      "少女革命"
+    ],
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Fantasy",
+      "Romance",
+      "Shoujo"
+    ],
+    "year": 1997,
+    "season": "Spring",
+    "episodes": 39,
+    "type": "TV",
+    "synopsis": "天上欧蒂娜小时候被一位王子所救，从此立志要成为王子。她进入了凤学园，被卷入学生会成员间以\"蔷薇新娘\"姬宫安希为赌注的决斗游戏。本作以童话般的舞台剧风格包装，实则是对性别角色、父权制度和少女成长的深刻解构。几原邦彦导演以其标志性的象征主义手法和华丽的美术设计创造了一部超前于时代的作品。",
+    "studio": "J.C.Staff",
+    "rating": 8.2,
+    "rank": 50,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #9370DB)",
+    "related_ids": [
+      51,
+      52,
+      56,
+      57,
+      246,
+      247
+    ]
+  },
+  {
+    "id": 51,
+    "name_cn": "魔卡少女樱",
+    "name_jp": "カードキャプターさくら",
+    "name_en": "Cardcaptor Sakura",
+    "aliases": [
+      "CCS",
+      "百变小樱",
+      "库洛魔法使",
+      "魔卡少女"
+    ],
+    "genres": [
+      "Mahou Shoujo",
+      "Romance",
+      "Comedy",
+      "Fantasy",
+      "Shoujo"
+    ],
+    "year": 1998,
+    "season": "Spring",
+    "episodes": 70,
+    "type": "TV",
+    "synopsis": "小学生木之本樱在父亲的书房中发现了一本名为《库洛牌》的书，不小心将书中的卡牌全部释放了出去。书的守护兽小可赋予了她封印之杖，小樱从此成为了\"库洛魔法使\"，踏上了收回卡牌的旅程。CLAMP创作的这部魔法少女作品以其精美的人设、温馨的日常和纯净的感情描写征服了全世界观众。2018年播出的透明牌篇延续了初代的故事。",
+    "studio": "Madhouse",
+    "rating": 8.1,
+    "rank": 51,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FF69B4)",
+    "related_ids": [
+      50,
+      52,
+      53,
+      54,
+      55,
+      247
+    ]
+  },
+  {
+    "id": 52,
+    "name_cn": "美少女战士",
+    "name_jp": "美少女戦士セーラームーン",
+    "name_en": "Sailor Moon",
+    "aliases": [
+      "水兵月",
+      "美战",
+      "Sailor Moon Crystal"
+    ],
+    "genres": [
+      "Mahou Shoujo",
+      "Romance",
+      "Action",
+      "Fantasy",
+      "Shoujo"
+    ],
+    "year": 1992,
+    "season": "Spring",
+    "episodes": 46,
+    "type": "TV",
+    "synopsis": "爱哭鬼月野兔在偶然中救下了一只会说话的黑猫露娜，被赋予了变身成\"水手月亮\"的能力。她必须找到幻之银水晶，保护公主，并与伙伴们一起对抗来自黑暗王国的敌人。作为90年代最经典的魔法少女作品，美少女战士不仅定义了\"变身战斗美少女\"的模板，更在全球范围内推动了日本动画的传播。",
+    "studio": "Toei Animation",
+    "rating": 7.8,
+    "rank": 52,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #FFD700)",
+    "related_ids": [
+      51,
+      53,
+      50,
+      54,
+      55,
+      247
+    ]
+  },
+  {
+    "id": 53,
+    "name_cn": "乱马1/2",
+    "name_jp": "らんま1/2",
+    "name_en": "Ranma 1/2",
+    "aliases": [
+      "乱马",
+      "乱马二分之一",
+      "Ranma"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Action",
+      "Martial Arts",
+      "Supernatural"
+    ],
+    "year": 1989,
+    "season": "Spring",
+    "episodes": 161,
+    "type": "TV",
+    "synopsis": "早乙女乱马和父亲在咒泉乡修行时落入了受诅咒的泉水——乱马遇冷水会变成女孩，遇热水才能恢复男身。他回到日本后寄住在天道道场，被许配给了天道茜。高桥留美子这部经典喜剧以荒诞的变身设定、精彩的格斗场面和混乱的多角关系为特色，是80年代末期最受欢迎的少年恋爱喜剧。",
+    "studio": "Studio Deen",
+    "rating": 7.8,
+    "rank": 53,
+    "cover_gradient": "linear-gradient(135deg, #FF6347, #FFD700)",
+    "related_ids": [
+      54,
+      55,
+      51,
+      52,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 54,
+    "name_cn": "犬夜叉",
+    "name_jp": "犬夜叉",
+    "name_en": "Inuyasha",
+    "aliases": [
+      "InuYasha",
+      "半妖",
+      "战国妖怪"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Historical"
+    ],
+    "year": 2000,
+    "season": "Fall",
+    "episodes": 167,
+    "type": "TV",
+    "synopsis": "15岁的少女日暮戈薇在自家神社的古井中穿越到了战国时代的日本，遇到了被封印的半妖少年犬夜叉。戈薇是巫女桔梗的转世，体内拥有四魂之玉，她与犬夜叉结伴寻找四魂之玉的碎片。高桥留美子继乱马之后创作的长篇冒险故事，融合了妖怪传说、穿越时空和跨越五百年的爱恨情仇。",
+    "studio": "Sunrise",
+    "rating": 7.9,
+    "rank": 54,
+    "cover_gradient": "linear-gradient(135deg, #FF6347, #4B0082)",
+    "related_ids": [
+      53,
+      55,
+      2,
+      29,
+      8,
+      1
+    ]
+  },
+  {
+    "id": 55,
+    "name_cn": "福星小子",
+    "name_jp": "うる星やつら",
+    "name_en": "Urusei Yatsura",
+    "aliases": [
+      "福星小子",
+      "山T女福星",
+      "Lum"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "year": 2022,
+    "season": "Fall",
+    "episodes": 23,
+    "type": "TV",
+    "synopsis": "地球面临外星鬼族的入侵威胁，倒霉的高中生诸星当被选中代表地球进行捉迷藏比赛。他成功赢得了比赛，却因一句误会导致了外星公主拉姆对他展开了狂热的追求。高桥留美子的出道作以其疯狂的搞笑和可爱的人物塑造奠定了日本80年代恋爱喜剧的基础。2022年的重制版以全彩和现代制作技术重新演绎了这个经典。",
+    "studio": "David Production",
+    "rating": 7.6,
+    "rank": 55,
+    "cover_gradient": "linear-gradient(135deg, #00BFFF, #FF69B4)",
+    "related_ids": [
+      53,
+      54,
+      51,
+      52,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 56,
+    "name_cn": "CLANNAD",
+    "name_jp": "CLANNAD -クラナド-",
+    "name_en": "Clannad",
+    "aliases": [
+      "CL",
+      "团子大家族",
+      "催泪神作"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "School",
+      "Supernatural"
+    ],
+    "year": 2007,
+    "season": "Fall",
+    "episodes": 23,
+    "type": "TV",
+    "synopsis": "不良少年冈崎朋也在樱花道上遇到了自言自语的神秘少女古河渚。两人的相遇改变了朋也的人生，他开始在学校中找到归属，与渚和朋友们度过了难忘的青春时光。本作是Key社催泪三部曲中最具代表性的作品，前半段的校园日常为后半段的家庭与亲情主题埋下了深情的伏笔。古河渚的梦想和朋也的成长是贯穿全篇的核心。",
+    "studio": "Kyoto Animation",
+    "rating": 8.3,
+    "rank": 56,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #9370DB)",
+    "related_ids": [
+      57,
+      58,
+      59,
+      60,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 57,
+    "name_cn": "CLANNAD ～AFTER STORY～",
+    "name_jp": "CLANNAD ～AFTER STORY～",
+    "name_en": "Clannad: After Story",
+    "aliases": [
+      "CLAS",
+      "CLANNAD AS",
+      "催泪核弹"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "year": 2008,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "朋也和渚毕业后开始了同居生活，朋也为了支撑家庭而工作，渚则继续着演剧部的梦想。故事从校园转向了成人世界，展现了婚姻、工作和为人父母的艰辛与幸福。后半段关于家庭的剧情被誉为动画史上最催泪的篇章。朋也面对失去与希望的选择，诠释了\"家族\"的真正含义。本作常年位居催泪动画榜单首位。",
+    "studio": "Kyoto Animation",
+    "rating": 8.9,
+    "rank": 57,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFD700)",
+    "related_ids": [
+      56,
+      58,
+      59,
+      60,
+      182,
+      183
+    ]
+  },
+  {
+    "id": 58,
+    "name_cn": "AIR",
+    "name_jp": "AIR",
+    "name_en": "Air",
+    "aliases": [
+      "AIR",
+      "青空",
+      "鸟之诗"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "year": 2005,
+    "season": "Winter",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "流浪人偶师国崎往人在海边的夏日小镇遇到了少女神尾观铃。观铃有一种只要和人亲近就会失控的奇怪病症。往人与她渐渐走近，却发现了观铃背后隐藏的千年诅咒——一个跨越千年的翼人少女的悲伤传说。作为Key社三部曲的起点，本作奠定了\"夏日、海边、告别\"的催泪基调。主题曲《鸟之诗》被誉为动漫界的国歌。",
+    "studio": "Kyoto Animation",
+    "rating": 7.5,
+    "rank": 58,
+    "cover_gradient": "linear-gradient(135deg, #87CEEB, #FFD700)",
+    "related_ids": [
+      56,
+      57,
+      59,
+      60,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 59,
+    "name_cn": "Kanon",
+    "name_jp": "Kanon",
+    "name_en": "Kanon (2006)",
+    "aliases": [
+      "卡农",
+      "雪之少女",
+      "Kanon"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural",
+      "Fantasy"
+    ],
+    "year": 2006,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "少年相泽祐一回到了七年前曾居住过的北方小镇，但他对这里的记忆却模糊不清。他重新遇到了几个与过去有关的少女——每天早上叫他起床的表妹名雪、在商店街等待的少女亚由、深夜校园中战斗的舞。祐一在逐渐找回记忆的过程中，揭开了埋藏在雪中的伤痛过去。京都动画以唯美的雪景和细腻的情感呈现了Key社的这部重要作品。",
+    "studio": "Kyoto Animation",
+    "rating": 7.7,
+    "rank": 59,
+    "cover_gradient": "linear-gradient(135deg, #E0FFFF, #FFB6C1)",
+    "related_ids": [
+      56,
+      57,
+      58,
+      60,
+      236,
+      237
+    ]
+  },
+  {
+    "id": 60,
+    "name_cn": "Angel Beats!",
+    "name_jp": "Angel Beats!",
+    "name_en": "Angel Beats!",
+    "aliases": [
+      "AB",
+      "天使的心跳",
+      "AB!天使的心跳"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Supernatural",
+      "Action",
+      "School"
+    ],
+    "year": 2010,
+    "season": "Spring",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "音无结弦在一个陌生的学校中醒来，发现自己已经死了。他加入了一个名为\"死后世界战线\"的组织，组织由团长仲村由理领导，目的是反抗学校中的\"天使\"——学生会会长立华奏。然而随着故事的发展，音无发现这个世界的真相远比想象中的更加悲伤。麻枝准以有限的话数讲述了一个关于释怀与告别的动人故事。",
+    "studio": "P.A. Works",
+    "rating": 8.0,
+    "rank": 60,
+    "cover_gradient": "linear-gradient(135deg, #9370DB, #FFD700)",
+    "related_ids": [
+      56,
+      57,
+      58,
+      59,
+      61,
+      64
+    ]
+  },
+  {
+    "id": 61,
+    "name_cn": "龙与虎",
+    "name_jp": "とらドラ!",
+    "name_en": "Toradora!",
+    "aliases": [
+      "虎与龙",
+      "ToraDora",
+      "龙虎"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2008,
+    "season": "Fall",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "面相凶恶但内心善良的高中生高须龙儿暗恋着栉枝实乃梨，而娇小的\"掌中老虎\"逢坂大河则爱慕着龙儿的好友北村祐作。两人为了帮助对方追求心上人结成了同盟，却在朝夕相处中逐渐发现了对彼此的真挚感情。本作是校园恋爱喜剧的典范之作，逢坂大河与高须龙儿的CP是动画史上最经典的情侣之一。",
+    "studio": "J.C.Staff",
+    "rating": 8.2,
+    "rank": 61,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FF4500)",
+    "related_ids": [
+      56,
+      57,
+      62,
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "id": 62,
+    "name_cn": "四月是你的谎言",
+    "name_jp": "四月は君の嘘",
+    "name_en": "Your Lie in April",
+    "aliases": [
+      "四月谎",
+      "君嘘",
+      "四谎"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music",
+      "School"
+    ],
+    "year": 2014,
+    "season": "Fall",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "曾是钢琴神童的有马公生在母亲去世后陷入了无法听见钢琴声的心理障碍。14岁那年春天，他遇见了自由奔放的小提琴手宫园薰，她的热情演奏点燃了公生重新弹琴的勇气。在樱花飞舞的四月，少年少女们在音乐中相遇、成长、面对离别。本作以精美的古典音乐演奏画面和催人泪下的剧情成为青春恋爱动画的经典。",
+    "studio": "A-1 Pictures",
+    "rating": 8.5,
+    "rank": 62,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      63,
+      64,
+      65,
+      166,
+      167
+    ]
+  },
+  {
+    "id": 63,
+    "name_cn": "我们仍未知道那天所看见的花的名字。",
+    "name_jp": "あの日見た花の名前を僕達はまだ知らない。",
+    "name_en": "Anohana: The Flower We Saw That Day",
+    "aliases": [
+      "Anohana",
+      "未闻花名",
+      "那朵花",
+      "花名"
+    ],
+    "genres": [
+      "Drama",
+      "Supernatural",
+      "Slice of Life",
+      "Romance"
+    ],
+    "year": 2011,
+    "season": "Spring",
+    "episodes": 11,
+    "type": "TV",
+    "synopsis": "昔日亲密无间的\"超和平Busters\"六人组，在儿时玩伴本间芽衣子意外身亡后渐行渐远。某天暑假，芽衣子的灵魂以长大的形态出现在宅男宿海仁太面前，请求他实现一个未了的心愿。为了帮助面码成佛，分散多年的伙伴们重新聚在一起，面对埋藏多年的伤痛和未曾说出口的感情。片尾曲《secret base》响起时，几乎无人能抑制泪水。",
+    "studio": "A-1 Pictures",
+    "rating": 8.3,
+    "rank": 63,
+    "cover_gradient": "linear-gradient(135deg, #FFF0F5, #87CEEB)",
+    "related_ids": [
+      62,
+      64,
+      65,
+      56,
+      57,
+      60
+    ]
+  },
+  {
+    "id": 64,
+    "name_cn": "Charlotte",
+    "name_jp": "Charlotte",
+    "name_en": "Charlotte",
+    "aliases": [
+      "夏洛特",
+      "Charlotte",
+      "超能力学园"
+    ],
+    "genres": [
+      "Drama",
+      "School",
+      "Supernatural",
+      "Romance"
+    ],
+    "year": 2015,
+    "season": "Summer",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "极少数的青少年会在青春期觉醒特殊能力，但这些能力都不完全。乙坂有宇拥有可以短暂占据他人身体五秒的能力。凭借这个能力他考入了名校，却被学生会发现了秘密，被迫转入星之海学园。麻枝准和P.A.Works继《Angel Beats!》后再度合作，探讨了能力与代价的主题。后期的急转折引发了广泛讨论。",
+    "studio": "P.A. Works",
+    "rating": 7.5,
+    "rank": 64,
+    "cover_gradient": "linear-gradient(135deg, #0000CD, #87CEEB)",
+    "related_ids": [
+      60,
+      56,
+      57,
+      63,
+      65,
+      23
+    ]
+  },
+  {
+    "id": 65,
+    "name_cn": "青春猪头少年不会梦到兔女郎学姐",
+    "name_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "name_en": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "aliases": [
+      "青猪",
+      "兔女郎学姐",
+      "青春猪头少年",
+      "Bunny Girl Senpai"
+    ],
+    "genres": [
+      "Romance",
+      "Supernatural",
+      "School",
+      "Drama",
+      "Psychological"
+    ],
+    "year": 2018,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "高中生梓川咲太在图书馆遇见了穿着兔女郎装的前偶像樱岛麻衣。奇怪的是，除了咲太之外没有人能看到她。原来麻衣正受到\"青春期症候群\"的困扰——一种都市传说中的超自然现象。咲太以他独有的冷静和善良帮助麻衣以及身边的其他人解决各种青春期症候群事件。麻衣学姐的魅力与咲太的直球式撩妹让本作成为近年最受欢迎的青春恋爱作品之一。",
+    "studio": "CloverWorks",
+    "rating": 8.2,
+    "rank": 65,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #9370DB)",
+    "related_ids": [
+      62,
+      63,
+      56,
+      57,
+      66,
+      67
+    ]
+  },
+  {
+    "id": 66,
+    "name_cn": "我的青春恋爱物语果然有问题。",
+    "name_jp": "やはり俺の青春ラブコメはまちがっている。",
+    "name_en": "My Teen Romantic Comedy SNAFU",
+    "aliases": [
+      "Oregairu",
+      "春物",
+      "大老师",
+      "果青"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2013,
+    "season": "Spring",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "比企谷八幡是一个孤僻、愤世嫉俗的高中生，因为一篇描写当代青春虚伪面的作文而被老师强制加入\"侍奉部\"。在那里他遇到了完美而冰冷的雪之下雪乃和活泼可爱的由比滨结衣。三人通过接受各种委托，逐渐面对各自的内心和彼此的羁绊。本作以其对社会关系的辛辣讽刺和深刻的角色心理描写重新定义了青春恋爱喜剧。",
+    "studio": "Brain's Base",
+    "rating": 8.1,
+    "rank": 66,
+    "cover_gradient": "linear-gradient(135deg, #87CEEB, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      64,
+      65,
+      67,
+      68
+    ]
+  },
+  {
+    "id": 67,
+    "name_cn": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+    "name_jp": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "name_en": "Kaguya-sama: Love is War",
+    "aliases": [
+      "辉夜",
+      "Kaguya-sama",
+      "恋爱头脑战"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School",
+      "Psychological"
+    ],
+    "year": 2019,
+    "season": "Winter",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "名门秀知院学园的学生会长白银御行和副会长四宫辉夜被公认为天造地设的一对，两人也互有好感。然而他们的自尊心太强，谁都不愿意先告白。于是两人绞尽脑汁设计各种策略，试图让对方率先告白。本作以精致的喜剧演出和出乎意料的情节反转赢得了极高人气，第三季的rap对决和剧场版告白场景成为经典。",
+    "studio": "A-1 Pictures",
+    "rating": 8.5,
+    "rank": 67,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFD700)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      66,
+      68,
+      69
+    ]
+  },
+  {
+    "id": 68,
+    "name_cn": "堀与宫村",
+    "name_jp": "ホリミヤ",
+    "name_en": "Horimiya",
+    "aliases": [
+      "堀宫",
+      "Hori-san to Miyamura-kun"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Slice of Life"
+    ],
+    "year": 2021,
+    "season": "Winter",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "在学校里，堀京子是品学兼优的完美女生，宫村伊澄则是沉默寡言的阴沉眼镜男。然而在放学后，堀变成了照顾弟弟的朴素姐姐，宫村则是一个浑身穿环打钉的帅气青年。两人在不经意间发现了彼此的秘密，随之建立起独特而亲密的友谊。本作以其自然流畅的恋爱进程和甜蜜的角色互动成为纯爱类动画的代表作。",
+    "studio": "CloverWorks",
+    "rating": 8.2,
+    "rank": 68,
+    "cover_gradient": "linear-gradient(135deg, #FFDAB9, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      67,
+      69,
+      70
+    ]
+  },
+  {
+    "id": 69,
+    "name_cn": "水果篮子",
+    "name_jp": "フルーツバスケット",
+    "name_en": "Fruits Basket",
+    "aliases": [
+      "水果篮",
+      "魔法水果篮",
+      "FruBa"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Supernatural",
+      "Comedy",
+      "Shoujo"
+    ],
+    "year": 2019,
+    "season": "Spring",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "高中女生本田透在母亲去世后住进了帐篷里，被同学草摩由希和草摩夹发现后，住进了草摩家。她逐渐发现了草摩家族的秘密——十二生肖的诅咒：被异性拥抱就会变成对应的生肖动物。透以她无条件的善良慢慢治愈了每个被诅咒的草摩族人。2019年的重制版完整改编了漫画的结局，以极高的制作质量呈现了这个关于爱、接纳与救赎的故事。",
+    "studio": "TMS Entertainment",
+    "rating": 8.3,
+    "rank": 69,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFFACD)",
+    "related_ids": [
+      61,
+      65,
+      66,
+      68,
+      70,
+      56
+    ]
+  },
+  {
+    "id": 70,
+    "name_cn": "好想告诉你",
+    "name_jp": "君に届け",
+    "name_en": "Kimi ni Todoke: From Me to You",
+    "aliases": [
+      "只想告诉你",
+      "传达",
+      "好想急死你"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2009,
+    "season": "Fall",
+    "episodes": 25,
+    "type": "TV",
+    "synopsis": "黑沼爽子因为长得像贞子而被同学们畏惧，但她的内心却无比善良。阳光开朗的风早翔太是第一个真心对她笑的同学，爽子逐渐被风早吸引。本作以细腻的笔触描绘了两个不善表达的人之间缓慢而甜蜜的恋爱进程。两位主角之间纯真的感情发展经常让观众着急不已，因此获得了\"好想急死你\"的昵称。",
+    "studio": "Production I.G",
+    "rating": 8.0,
+    "rank": 70,
+    "cover_gradient": "linear-gradient(135deg, #FFF0F5, #FFB6C1)",
+    "related_ids": [
+      61,
+      65,
+      67,
+      68,
+      69,
+      71
+    ]
+  },
+  {
+    "id": 71,
+    "name_cn": "恋爱情结",
+    "name_jp": "ラブ★コン",
+    "name_en": "Lovely Complex",
+    "aliases": [
+      "LoveCom",
+      "恋爱情结",
+      "Lovely Complex"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2007,
+    "season": "Spring",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "身高172cm的高个子女生小泉理沙和身高156cm的矮个子男生大谷敦士，被同学们称为\"搞笑二人组\"。两人因都喜欢同一支乐队而成为好朋友，但理沙逐渐对冬谷产生了超越友情的感情。本作以关西腔的幽默对白和夸张的表情演出为特色，通过一对身高反差情侣的故事探讨了外貌与爱情的议题。",
+    "studio": "Toei Animation",
+    "rating": 8.1,
+    "rank": 71,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FF8C00)",
+    "related_ids": [
+      61,
+      65,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": 72,
+    "name_cn": "NANA",
+    "name_jp": "NANA -ナナ-",
+    "name_en": "Nana",
+    "aliases": [
+      "娜娜",
+      "世界上另一个我",
+      "NANA"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music",
+      "Slice of Life",
+      "Josei"
+    ],
+    "year": 2006,
+    "season": "Spring",
+    "episodes": 47,
+    "type": "TV",
+    "synopsis": "两个名字都叫\"NANA\"的同龄女孩在开往东京的列车上相遇。大崎娜娜是一个追求朋克摇滚梦想的酷女孩，小松奈奈则是一个追随男友而来的天真女孩。她们机缘巧合成为了同租室友，两条截然不同的人生轨迹在东京这座大都市中交织。矢泽爱以极为写实的笔触描绘了一段关于爱情、友情和梦想的青春群像。",
+    "studio": "Madhouse",
+    "rating": 8.4,
+    "rank": 72,
+    "cover_gradient": "linear-gradient(135deg, #8B0000, #4B0082)",
+    "related_ids": [
+      70,
+      71,
+      166,
+      167,
+      168,
+      61
+    ]
+  },
+  {
+    "id": 73,
+    "name_cn": "金色时光",
+    "name_jp": "ゴールデンタイム",
+    "name_en": "Golden Time",
+    "aliases": [
+      "Golden Time",
+      "金色时光",
+      "GT"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "College",
+      "Comedy"
+    ],
+    "year": 2013,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "大一新生多田万里在入学当天遇到了热爱戏剧的完美大小姐加贺香子。香子疯狂追求着她从小爱慕的青梅竹马，而万里则在事故后失去了高中时期的记忆。作为少有的以大学生为主角的恋爱作品，本作探讨了身份认同和过去与现在的自我冲突。加贺香子的性格成长是故事的一大亮点。",
+    "studio": "J.C.Staff",
+    "rating": 7.6,
+    "rank": 73,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      61,
+      62,
+      64,
+      65,
+      66,
+      74
+    ]
+  },
+  {
+    "id": 74,
+    "name_cn": "樱花庄的宠物女孩",
+    "name_jp": "さくら荘のペットな彼女",
+    "name_en": "The Pet Girl of Sakurasou",
+    "aliases": [
+      "樱花庄",
+      "宠物女孩",
+      "真白"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Drama"
+    ],
+    "year": 2012,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "神田空太因收养流浪猫被踢出普通宿舍，搬进了问题学生聚集的樱花庄。在这里他遇到了世界级天才画家椎名真白——一个绘画天才但在日常生活中需要被人照顾的少女。空太在照顾真白的同时，也在追寻自己的梦想。本作探讨了天才与普通人的差距、追求梦想的挫折与坚持，是一部兼具搞笑和感动的青春群像剧。",
+    "studio": "J.C.Staff",
+    "rating": 7.9,
+    "rank": 74,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      66,
+      73,
+      75
+    ]
+  },
+  {
+    "id": 75,
+    "name_cn": "ReLIFE 重返17岁",
+    "name_jp": "ReLIFE",
+    "name_en": "ReLIFE",
+    "aliases": [
+      "重返17岁",
+      "ReLIFE",
+      "重生计划"
+    ],
+    "genres": [
+      "Romance",
+      "School",
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2016,
+    "season": "Summer",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "27岁的海崎新太辞去工作后生活陷入困境，被邀请参加\"ReLIFE\"实验——服用药物变回17岁的外貌，重新上一年高中。在高中生活中他重新认识了青春的珍贵，也结识了同学日代千鹤。但实验结束后所有人都将失去与他相关的记忆。这部深夜档动画以其成熟的人生思考和对校园生活的温馨描绘打动了许多社会人观众。",
+    "studio": "TMS Entertainment",
+    "rating": 8.0,
+    "rank": 75,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      56,
+      62,
+      63,
+      65,
+      74,
+      73
+    ]
+  },
+  {
+    "id": 76,
+    "name_cn": "月色真美",
+    "name_jp": "月がきれい",
+    "name_en": "Tsuki ga Kirei",
+    "aliases": [
+      "月色真美",
+      "月がきれい",
+      "As the Moon, So Beautiful"
+    ],
+    "genres": [
+      "Romance",
+      "School",
+      "Slice of Life",
+      "Drama"
+    ],
+    "year": 2017,
+    "season": "Spring",
+    "episodes": 12,
+    "type": "TV",
+    "synopsis": "初中三年级的水野茜和安昙小太郎是两个普通而不起眼的学生。茜是田径部的成员，小太郎则热爱写作。两人在初三这个重要的人生转折点相遇，开始了青涩而真挚的初恋。本作以极为真实细腻的方式呈现了初中生恋爱的全过程——从Line聊天、交换联系方式到一起备考、面对升学分离。片尾的各种LINE对话彩蛋增添了独特的现实感。",
+    "studio": "feel.",
+    "rating": 8.0,
+    "rank": 76,
+    "cover_gradient": "linear-gradient(135deg, #FFF8DC, #FFB6C1)",
+    "related_ids": [
+      65,
+      67,
+      68,
+      70,
+      61,
+      62
+    ]
+  },
+  {
+    "id": 77,
+    "name_cn": "GIVEN 被赠与的未来",
+    "name_jp": "ギヴン",
+    "name_en": "Given",
+    "aliases": [
+      "Given",
+      "被赠与的未来",
+      "Given"
+    ],
+    "genres": [
+      "Music",
+      "Romance",
+      "Drama",
+      "Slice of Life"
+    ],
+    "year": 2019,
+    "season": "Summer",
+    "episodes": 11,
+    "type": "TV",
+    "synopsis": "上之山立夏在高中吉他手的位置上过着无聊的日子，直到他遇到了抱着坏掉的吉他的佐藤真冬。真冬的歌声打动了他的心，立夏开始教真冬弹吉他，两人逐渐走近。本作是少数以BL为主题的动画之一，但其对音乐的热爱和对失去与治愈的探讨超越了类型限制。真冬在舞台上唱出的那首歌是整部作品的高光时刻。",
+    "studio": "Lerche",
+    "rating": 8.0,
+    "rank": 77,
+    "cover_gradient": "linear-gradient(135deg, #4169E1, #FFB6C1)",
+    "related_ids": [
+      62,
+      166,
+      167,
+      168,
+      78,
+      72
+    ]
+  },
+  {
+    "id": 78,
+    "name_cn": "终将成为你",
+    "name_jp": "やがて君になる",
+    "name_en": "Bloom Into You",
+    "aliases": [
+      "终将",
+      "やが君",
+      "Yagate Kimi ni Naru"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "School",
+      "Yuri",
+      "Shoujo"
+    ],
+    "year": 2018,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "小糸侑一直不懂什么是喜欢，直到她遇到了学生会的前辈七海灯子。灯子拒绝了所有告白，却对无法心动的侑产生了兴趣。两人之间的关系从\"因为无法喜欢上所以没关系\"开始逐渐发生了微妙的变化。本作被誉为百合动画的巅峰之作，以极其细腻的心理描写探讨了自我认同和爱的本质。",
+    "studio": "TROYCA",
+    "rating": 8.1,
+    "rank": 78,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #9370DB)",
+    "related_ids": [
+      50,
+      51,
+      246,
+      247,
+      248,
+      77
+    ]
+  },
+  {
+    "id": 79,
+    "name_cn": "冰果",
+    "name_jp": "氷菓",
+    "name_en": "Hyouka",
+    "aliases": [
+      "冰菓",
+      "氷菓",
+      "古典部"
+    ],
+    "genres": [
+      "Mystery",
+      "School",
+      "Slice of Life",
+      "Romance"
+    ],
+    "year": 2012,
+    "season": "Spring",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "节能主义者折木奉太郎奉姐姐之命加入了濒临废部的古典部。在那里他遇到了好奇心旺盛的千金小姐千反田爱瑠。在爱瑠\"我很好奇\"的驱使下，奉太郎发挥其出众的推理才能，解决了一个个校园中的日常谜题。京都动画以其标志性的精美画面和细腻演出，将平凡的校园生活化为了一场场优雅的推理游戏。文化祭篇是京都动画最高制作水准的代表之一。",
+    "studio": "Kyoto Animation",
+    "rating": 8.1,
+    "rank": 79,
+    "cover_gradient": "linear-gradient(135deg, #8B4513, #FFD700)",
+    "related_ids": [
+      56,
+      61,
+      65,
+      66,
+      67,
+      80
+    ]
+  },
+  {
+    "id": 80,
+    "name_cn": "春物语",
+    "name_jp": "ハルヒ",
+    "name_en": "The Melancholy of Haruhi Suzumiya",
+    "aliases": [
+      "凉宫",
+      "凉宫春日的忧郁",
+      "Suzumiya Haruhi"
+    ],
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "School",
+      "Supernatural",
+      "Mystery"
+    ],
+    "year": 2006,
+    "season": "Spring",
+    "episodes": 14,
+    "type": "TV",
+    "synopsis": "入学式上，凉宫春日宣称「我对普通人类没有兴趣，你们当中如果有外星人、未来人、异世界人或超能力者，就来找我吧」。阿虚意外地与她搭上了话，被卷入了凉宫组建的SOS团中。让阿虚没想到的是，SOS团的成员中真的有外星人、未来人和超能力者。本作是2000年代轻小说改编动画的里程碑，\"漫无止境的八月\"成为动画史上最具实验性的叙事尝试之一。",
+    "studio": "Kyoto Animation",
+    "rating": 8.0,
+    "rank": 80,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #FFD700)",
+    "related_ids": [
+      56,
+      66,
+      79,
+      23,
+      116,
+      137
+    ]
+  },
+  {
+    "id": 81,
+    "name_cn": "物语系列",
+    "name_jp": "化物語",
+    "name_en": "Bakemonogatari",
+    "aliases": [
+      "物语",
+      "Monogatari",
+      "物语系列",
+      "伪物语"
+    ],
+    "genres": [
+      "Supernatural",
+      "Mystery",
+      "Romance",
+      "Comedy",
+      "Psychological"
+    ],
+    "year": 2009,
+    "season": "Summer",
+    "episodes": 15,
+    "type": "TV",
+    "synopsis": "高中生阿良良木历在帮助了濒死的吸血鬼后，自己也变成了半吸血鬼体质。他开始遇到了各种被\"怪异\"附身的少女们——被螃蟹夺走体重的战场原黑仪、被迷路蜗牛附体的八九寺真宵、被猿猴之手附体的神原骏河。新房昭之独特的视觉风格和西尾维新华丽的对白使本作成为轻小说改编的标杆。战场原黑仪的告白场景是系列最经典的一幕。",
+    "studio": "Shaft",
+    "rating": 8.3,
+    "rank": 81,
+    "cover_gradient": "linear-gradient(135deg, #4B0082, #FFD700)",
+    "related_ids": [
+      26,
+      116,
+      23,
+      56,
+      67,
+      82
+    ]
+  },
+  {
+    "id": 82,
+    "name_cn": "三月的狮子",
+    "name_jp": "3月のライオン",
+    "name_en": "March Comes in Like a Lion",
+    "aliases": [
+      "三月",
+      "三月狮子",
+      "3-gatsu no Lion"
+    ],
+    "genres": [
+      "Drama",
+      "Slice of Life",
+      "Sports",
+      "Seinen"
+    ],
+    "year": 2016,
+    "season": "Fall",
+    "episodes": 22,
+    "type": "TV",
+    "synopsis": "17岁的桐山零是职业将棋棋士，年少成名的他在社会的孤立和内心抑郁中挣扎。直到他遇到了川本三姐妹——明里、日向和小桃，她们温暖的日常一点点融化了他冰封的内心。羽海野千花的原作以将棋为线索，实则描绘了一个关于孤独、创伤和温情的群像故事。Shaft和NHK联合制作的动画版在美术和演出上达到了极高的艺术水准。",
+    "studio": "Shaft",
+    "rating": 8.5,
+    "rank": 82,
+    "cover_gradient": "linear-gradient(135deg, #FFD700, #FFB6C1)",
+    "related_ids": [
+      56,
+      57,
+      79,
+      81,
+      83,
+      182
+    ]
+  },
+  {
+    "id": 83,
+    "name_cn": "白箱",
+    "name_jp": "SHIROBAKO",
+    "name_en": "Shirobako",
+    "aliases": [
+      "SHIROBAKO",
+      "白箱",
+      "动画制作"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Slice of Life",
+      "Work"
+    ],
+    "year": 2014,
+    "season": "Fall",
+    "episodes": 24,
+    "type": "TV",
+    "synopsis": "高中动画同好会的五个女孩约定长大后要一起制作动画。几年后，宫森葵成为了动画制作公司的制作进行，每天都在与截稿日和各种突发状况搏斗。本作是P.A.Works献给动画业界的一封情书，真实展现了动画制作背后的辛酸与热血。通过主角们的成长，观众可以了解到一部动画从企划到播出的完整流程。",
+    "studio": "P.A. Works",
+    "rating": 8.3,
+    "rank": 83,
+    "cover_gradient": "linear-gradient(135deg, #FF69B4, #FFD700)",
+    "related_ids": [
+      60,
+      64,
+      74,
+      79,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 84,
+    "name_cn": "小桃小栗 Love Love物语",
+    "name_jp": "ももくり",
+    "name_en": "Momokuri",
+    "aliases": [
+      "桃栗",
+      "桃李",
+      "momokuri"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Slice of Life"
+    ],
+    "year": 2016,
+    "season": "Winter",
+    "episodes": 26,
+    "type": "ONA",
+    "synopsis": "栗原雪对同校的学弟桃月心也一见钟情，经过半年的跟踪（划掉）观察后，终于告白成功成为了恋人。然而恋爱之后的栗原展现出了超乎寻常的痴女属性——收集心也用过的吸管、趴在地上偷拍学弟的睡颜。本作以超甜超搞笑的风格展现了一对青涩恋人的日常，栗原的\"变态\"行为虽然离谱但格外可爱。",
+    "studio": "Satelight",
+    "rating": 7.2,
+    "rank": 84,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #FFDAB9)",
+    "related_ids": [
+      61,
+      67,
+      68,
+      70,
+      84,
+      85
+    ]
+  },
+  {
+    "id": 85,
+    "name_cn": "邻座的怪同学",
+    "name_jp": "となりの怪物くん",
+    "name_en": "My Little Monster",
+    "aliases": [
+      "邻座",
+      "怪同学",
+      "となりの怪物くん"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School",
+      "Shoujo"
+    ],
+    "year": 2012,
+    "season": "Fall",
+    "episodes": 13,
+    "type": "TV",
+    "synopsis": "优等生水谷雫被老师委托送讲义给从来不来的问题学生吉田春。没想到春是一个单纯而暴力的\"怪物\"，他认定了雫是自己的第一个朋友，从此黏上了她。两个在感情上都极其笨拙的人开始了磕磕绊绊的恋爱过程。本作的节奏极快，第一集就完成了告白，这在恋爱动画中十分罕见。",
+    "studio": "Brain's Base",
+    "rating": 7.8,
+    "rank": 85,
+    "cover_gradient": "linear-gradient(135deg, #FFB6C1, #87CEEB)",
+    "related_ids": [
+      61,
+      62,
+      65,
+      67,
+      68,
+      84
+    ]
+  }
+]

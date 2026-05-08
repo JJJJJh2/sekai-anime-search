@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Finder — Discover Your Next Favorite Anime</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Particle Background -->
+    <canvas id="particlesCanvas"></canvas>
+
+    <!-- ================================================================
+    Navigation
+    ================================================================ -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="/" class="nav-brand">
+                <span class="nav-brand-icon">🎬</span>Anime Finder
+            </a>
+            <div class="nav-links">
+                <a href="/">🏠 Home</a>
+                <button onclick="document.getElementById('rankingSection').scrollIntoView({behavior:'smooth'})">
+                    🏆 Rankings
+                </button>
+                <button onclick="document.getElementById('genreFilters').scrollIntoView({behavior:'smooth'})">
+                    🏷️ Genres
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ================================================================
+    Main Container
+    ================================================================ -->
+    <div class="container">
+
+        <!-- Hero -->
+        <section class="hero">
+            <h1 class="hero-title">Anime Finder</h1>
+            <p class="hero-subtitle">
+                Discover, search, and explore anime across dimensions ✨
+            </p>
+        </section>
+
+        <!-- Search Section -->
+        <section class="search-section glass-card">
+            <div class="search-wrapper">
+                <div class="search-input-wrap">
+                    <span class="search-icon">🔍</span>
+                    <input
+                        type="text"
+                        id="searchInput"
+                        class="search-input"
+                        placeholder="Search by name, pinyin, genre, studio... (中文·日本語·English)"
+                        autocomplete="off"
+                    >
+                    <!-- Autocomplete Dropdown -->
+                    <div id="autocompleteDropdown" class="autocomplete-dropdown"></div>
+                </div>
+                <button id="searchBtn" class="btn btn-primary">🔍 Search</button>
+                <button id="randomBtn" class="btn btn-pink">✨ Surprise Me</button>
+            </div>
+        </section>
+
+        <!-- Search History -->
+        <section id="searchHistorySection" class="hidden" style="margin-bottom:1.5rem;">
+            <p style="font-size:0.8rem;color:var(--text-muted);margin-bottom:0.5rem;">🕐 Recent Searches</p>
+            <div id="historyTags" class="genre-filters"></div>
+        </section>
+
+        <!-- Genre Filters -->
+        <div id="genreFilters" class="genre-filters"></div>
+
+        <!-- Loading State -->
+        <div id="loadingState" class="hidden"></div>
+
+        <!-- Message Box (error/empty) -->
+        <div id="messageBox" class="message-box">
+            <span class="message-emoji">🎌</span>
+            <p class="message-text">Ready to explore anime!</p>
+            <p class="message-hint">Search above, pick a genre, or scroll down for rankings and top airing.</p>
+        </div>
+
+        <!-- Search Results Section -->
+        <section id="resultsSection" class="hidden">
+            <h2 id="resultsHeading" class="section-title"></h2>
+            <div id="resultsGrid" class="anime-grid"></div>
+        </section>
+
+        <!-- Top Airing Section -->
+        <section style="margin-top:2rem;">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="section-title-icon">📡</span> Top Airing
+                </h2>
+            </div>
+            <div id="topAiringRow" class="scroll-row">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Rankings Section -->
+        <section id="rankingSection" style="margin-top:2.5rem;">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="section-title-icon">🏆</span> Top Rated
+                </h2>
+                <a href="/" class="btn btn-outline btn-sm">View All →</a>
+            </div>
+            <div id="rankingGrid" class="anime-grid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Daily Waifu Section -->
+        <section id="dailyWaifuSection" class="glass-card hidden" style="margin-top:2rem;padding:1.5rem;display:flex;gap:1.2rem;align-items:center;flex-wrap:wrap;">
+            <div class="dw-cover" style="width:80px;height:100px;border-radius:var(--radius-md);flex-shrink:0;border:2px solid var(--border-card-hover);"></div>
+            <div style="flex:1;min-width:200px;">
+                <p style="font-size:0.75rem;color:var(--pink-glow);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.25rem;">🎀 Today's Character</p>
+                <p class="dw-name" style="font-size:1.15rem;font-weight:700;"></p>
+                <p class="dw-anime" style="font-size:0.8rem;color:var(--text-secondary);"></p>
+                <p class="dw-desc" style="font-size:0.8rem;color:var(--text-muted);margin-top:0.25rem;"></p>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
