@@ -54,10 +54,16 @@ def create_app() -> Flask:
 
 
 # ---------------------------------------------------------------------------
-# Entry Point
+# Module-level app instance — required by gunicorn (gunicorn app:app)
+# ---------------------------------------------------------------------------
+
+app = create_app()
+
+
+# ---------------------------------------------------------------------------
+# Entry Point (direct execution: python app.py)
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    app = create_app()
     print("Anime Finder server starting at http://127.0.0.1:5000")
     app.run(debug=True, host="127.0.0.1", port=5000)
